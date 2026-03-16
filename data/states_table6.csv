@@ -1,0 +1,1237 @@
+ANZSCO Code,Occupation,NSW,VIC,QLD,SA,WA,TAS,NT,ACT
+1111,Chief Executives and Managing Directors,32.7,26.4,18.3,6.3,11.8,1.7,1.2,1.6
+1112,General Managers,29.8,29.5,19.9,5.0,10.8,2.0,1.2,1.8
+1113,Legislators,27.5,17.4,21.3,6.6,12.1,5.7,4.8,4.6
+1211,Aquaculture Farmers,14.9,12.5,11.9,11.3,14.8,25.7,4.4,4.4
+1212,Crop Farmers,24.0,23.1,23.0,11.1,14.5,3.2,0.7,0.4
+1213,Livestock Farmers,32.4,29.6,17.6,9.1,6.7,3.8,0.6,0.2
+1214,Mixed Crop and Livestock Farmers,20.4,16.8,14.3,27.0,19.7,1.0,0.4,0.4
+1311,"Advertising, Public Relations and Sales Manager",37.0,27.6,19.6,4.8,7.7,1.1,0.4,1.7
+1321,Corporate Services Managers,25.7,19.9,25.0,6.6,15.0,1.9,1.8,4.0
+1322,Finance Managers,36.0,26.9,16.7,6.7,9.3,1.1,1.0,2.4
+1323,Human Resource Managers,38.9,20.4,20.1,5.7,10.2,1.3,0.7,2.7
+1324,Policy and Planning Managers,35.0,22.7,14.4,4.1,8.2,1.8,1.4,12.3
+1325,Research and Development Managers,31.6,30.0,15.1,5.7,10.9,1.4,0.8,4.7
+1331,Construction Managers,36.0,23.0,21.1,5.3,9.9,2.0,1.2,1.3
+1332,Engineering Managers,24.5,27.5,19.5,7.1,19.0,0.9,0.6,0.9
+1333,"Importers, Exporters and Wholesalers",28.2,28.2,21.1,10.1,8.5,2.2,0.8,0.9
+1334,Manufacturers,22.4,28.0,22.0,13.0,11.1,2.3,0.7,0.5
+1335,Production Managers,28.3,27.2,19.4,5.7,17.0,1.8,0.4,0.3
+1336,"Supply, Distribution and Procurement Managers",29.1,29.2,22.7,4.6,11.1,1.2,0.9,1.2
+1341,Child Care Centre Managers,33.4,19.9,21.4,10.5,7.7,1.3,1.1,4.8
+1342,Health and Welfare Services Managers,29.6,24.7,26.8,7.0,7.3,1.4,1.7,1.7
+1343,School Principals,38.8,21.3,15.4,6.1,12.6,1.4,1.9,2.3
+1344,Other Education Managers,32.4,31.4,15.1,6.5,6.7,1.3,1.5,5.1
+1351,ICT Managers,39.6,33.3,11.2,3.7,6.5,1.2,0.4,4.2
+1391,Commissioned Officers (Management),18.0,12.8,22.5,5.5,7.1,5.6,2.9,25.7
+1392,Senior Non-Commissioned Defence Force Officers,32.2,12.0,24.8,6.6,9.2,0.8,5.9,8.6
+1399,Other Specialist Managers,30.9,30.2,16.8,5.2,10.8,1.8,1.3,3.0
+1411,Cafe and Restaurant Managers,31.3,25.1,21.6,5.3,11.5,2.3,0.9,2.0
+1412,Caravan Park and Camping Ground Managers,25.3,16.2,32.2,5.5,7.9,4.0,5.5,3.5
+1413,Hotel and Motel Managers,29.5,25.4,25.7,7.6,7.1,2.5,1.0,1.1
+1414,Licensed Club Managers,43.7,20.8,15.7,7.1,6.5,1.7,1.6,3.0
+1419,Other Accommodation and Hospitality Managers,26.6,27.0,21.5,6.1,10.0,4.1,2.6,2.1
+1421,Retail Managers,31.4,24.8,22.2,6.6,10.5,2.1,0.9,1.5
+1491,"Amusement, Fitness and Sports Centre Managers",35.6,27.3,15.0,6.4,12.3,1.2,0.8,1.6
+1492,"Call, Contact Centre and Customer Service Managers",30.4,31.6,16.9,6.3,10.6,1.5,1.3,1.3
+1493,Conference and Event Organisers,46.0,22.6,15.5,4.9,7.9,1.0,0.5,1.5
+1494,Transport Services Managers,21.6,37.7,25.1,3.9,7.2,1.6,1.0,1.9
+1499,"Other Hospitality, Retail and Service Managers",37.7,24.8,16.2,6.3,9.5,1.8,1.0,2.8
+2111,"Actors, Dancers and Other Entertainers",30.2,33.6,16.9,5.4,9.6,1.4,1.4,1.5
+2112,Music Professionals,34.8,32.0,15.5,5.1,7.1,2.1,1.7,1.7
+2113,Photographers,29.3,29.5,19.4,7.4,9.8,2.0,1.0,1.6
+2114,Visual Arts and Crafts Professionals,28.3,28.5,21.6,6.2,8.7,3.2,1.7,1.7
+2121,"Artistic Directors, Media Producers and Presenters",47.2,26.2,13.4,4.8,4.5,1.4,1.0,1.5
+2122,"Authors, and Book and Script Editors",30.4,32.0,10.0,5.2,13.9,3.9,1.7,2.9
+2123,"Film, Television, Radio and Stage Directors",41.0,28.3,17.1,2.5,7.3,1.1,0.8,1.8
+2124,Journalists and Other Writers,43.0,23.7,16.5,5.3,6.1,1.6,0.7,3.2
+2211,Accountants,35.2,28.5,16.0,5.2,11.2,1.2,0.7,2.0
+2212,"Auditors, Company Secretaries and Corporate Treasurers",37.9,27.6,14.2,5.9,9.2,1.2,0.6,3.4
+2221,Financial Brokers,37.9,24.9,23.8,4.5,6.9,0.7,0.4,0.8
+2222,Financial Dealers,52.2,19.8,13.6,4.8,7.1,0.8,0.5,1.2
+2223,Financial Investment Advisers and Managers,43.1,29.6,13.2,4.6,6.2,1.2,0.3,1.8
+2231,Human Resource Professionals,30.6,26.2,20.2,5.6,11.3,2.0,1.2,3.1
+2232,ICT Trainers,21.9,40.1,12.7,5.4,9.9,3.3,3.0,3.7
+2233,Training and Development Professionals,34.0,24.0,21.0,5.1,10.0,1.5,1.1,3.3
+2241,"Actuaries, Mathematicians and Statisticians",47.9,26.8,7.9,5.7,5.5,1.5,1.1,3.5
+2242,"Archivists, Curators and Records Managers",41.2,25.8,10.8,4.0,5.6,2.2,1.5,8.9
+2243,Economists,31.0,24.8,11.5,6.1,6.3,2.5,2.2,15.6
+2244,Intelligence and Policy Analysts,26.2,23.7,12.9,5.6,8.3,2.5,1.2,19.5
+2245,Land Economists and Valuers,30.8,24.5,23.1,7.9,8.9,1.8,0.9,2.1
+2246,Librarians,20.7,38.8,13.3,5.3,13.0,2.1,1.1,5.7
+2247,Management and Organisation Analysts,26.5,33.9,19.0,5.0,9.7,0.9,0.3,4.6
+2249,Other Information and Organisation Professionals,33.5,28.1,19.5,4.2,8.5,1.1,0.7,4.3
+2251,Advertising and Marketing Professionals,34.8,34.8,16.8,3.6,7.8,0.7,0.2,1.3
+2252,ICT Sales Professionals,48.7,31.1,10.2,2.6,4.7,0.7,0.5,1.4
+2253,Public Relations Professionals,36.6,26.3,17.3,4.3,7.4,1.8,0.8,5.6
+2254,Technical Sales Representatives,28.4,26.9,23.2,7.4,11.5,1.5,0.5,0.7
+2311,Air Transport Professionals,30.0,17.0,26.1,5.9,14.4,1.7,3.6,1.4
+2312,Marine Transport Professionals,23.6,16.2,26.1,7.5,17.2,5.9,1.9,1.6
+2321,Architects and Landscape Architects,37.2,31.6,15.6,5.0,7.8,1.4,0.6,0.8
+2322,Surveyors and Spatial Scientists,25.3,24.5,21.3,5.2,19.4,1.8,1.0,1.5
+2323,"Fashion, Industrial and Jewellery Designers",37.1,41.7,10.3,3.5,4.7,1.1,0.8,0.7
+2324,"Graphic and Web Designers, and Illustrators",37.7,31.4,16.6,4.1,7.0,1.0,0.3,1.9
+2325,Interior Designers,39.6,35.2,15.3,3.2,4.5,1.0,0.6,0.7
+2326,Urban and Regional Planners,33.3,26.4,22.5,3.2,9.0,3.8,0.7,1.0
+2331,Chemical and Materials Engineers,24.3,13.6,30.6,4.8,21.2,1.5,1.5,2.5
+2332,Civil Engineering Professionals,29.1,30.9,19.1,6.2,12.1,0.9,0.9,0.8
+2333,Electrical Engineers,28.2,21.8,27.6,6.0,13.9,1.1,0.8,0.7
+2334,Electronics Engineers,32.0,21.3,15.9,6.1,17.7,1.9,1.8,3.2
+2335,"Industrial, Mechanical and Production Engineers",23.3,33.9,20.0,5.9,14.9,1.1,0.4,0.5
+2336,Mining Engineers,7.1,3.9,22.1,4.5,59.9,0.7,1.1,0.6
+2339,Other Engineering Professionals,28.3,36.3,15.2,7.3,9.6,0.8,0.7,1.8
+2341,Agricultural and Forestry Scientists,19.2,18.4,27.9,12.4,9.5,8.9,1.8,2.0
+2342,"Chemists, and Food and Wine Scientists",22.7,32.5,12.8,17.4,8.4,2.1,1.1,2.9
+2343,Environmental Scientists,26.1,19.5,19.6,6.0,19.8,3.8,3.2,1.9
+2344,"Geologists, Geophysicists and Hydrogeologists",6.9,12.3,19.4,4.1,51.8,2.6,1.3,1.6
+2345,Life Scientists,22.9,23.2,19.3,9.6,12.7,5.8,2.4,4.1
+2346,Medical Laboratory Scientists,25.8,34.5,20.1,6.9,9.5,1.2,0.7,1.4
+2347,Veterinarians,20.0,34.3,26.5,4.4,8.4,3.1,0.9,2.5
+2349,Other Natural and Physical Science Professionals,30.9,28.3,20.3,6.1,9.7,1.5,0.8,2.4
+2411,Early Childhood (Pre-primary School) Teachers,37.0,35.3,13.7,5.3,4.8,1.3,0.8,1.6
+2412,Primary School Teachers,32.3,24.9,20.2,6.2,11.7,1.9,1.3,1.6
+2413,Middle School Teachers,10.9,24.5,10.3,21.6,6.4,6.4,13.2,6.8
+2414,Secondary School Teachers,33.2,25.8,20.7,5.9,9.6,2.1,1.0,1.6
+2415,Special Education Teachers,34.9,19.8,23.8,7.5,8.7,2.1,1.5,1.7
+2421,University Lecturers and Tutors,31.5,29.7,16.1,5.7,11.2,1.7,0.7,3.4
+2422,Vocational Education Teachers,34.5,26.0,16.0,5.7,13.4,2.0,1.0,1.3
+2491,Education Advisers and Reviewers,31.7,31.7,13.6,3.8,12.3,2.5,1.0,3.3
+2492,Private Tutors and Teachers,36.7,28.9,15.4,5.4,10.1,1.0,0.6,1.9
+2493,Teachers of English to Speakers of Other Languages,36.1,26.4,13.8,5.8,9.6,3.0,2.7,2.6
+2511,Nutrition Professionals,33.5,23.1,24.7,6.3,7.6,2.2,1.3,1.5
+2512,Medical Imaging Professionals,29.9,34.1,15.6,6.6,9.6,1.5,0.8,1.9
+2513,Occupational and Environmental Health Professionals,23.0,20.4,27.4,5.9,19.6,1.9,1.0,0.8
+2514,Optometrists and Orthoptists,30.8,25.0,20.0,5.9,10.4,2.4,2.2,3.2
+2515,Pharmacists,29.3,35.2,19.3,5.0,7.1,1.7,0.6,1.7
+2519,Other Health Diagnostic and Promotion Professionals,28.0,36.8,9.3,8.7,10.4,2.0,2.6,2.1
+2521,Chiropractors and Osteopaths,26.5,42.7,15.9,3.9,6.4,1.7,1.2,1.6
+2522,Complementary Health Therapists,27.6,27.6,22.6,5.9,10.6,1.7,1.6,2.4
+2523,Dental Practitioners,27.6,29.4,26.2,4.8,9.2,1.0,0.6,1.2
+2524,Occupational Therapists,28.6,27.7,20.7,8.2,11.5,0.9,1.2,1.2
+2525,Physiotherapists,29.5,27.9,18.6,8.3,11.8,1.1,1.2,1.5
+2526,Podiatrists,28.9,36.5,14.7,6.0,8.0,2.5,1.7,1.8
+2527,Audiologists and Speech Pathologists \ Therapists,32.2,24.1,20.7,9.1,10.5,1.1,0.7,1.7
+2531,General Practitioners and Resident Medical Officers,25.8,26.7,22.1,8.1,12.6,1.4,1.4,1.9
+2532,Anaesthetists,34.2,26.4,15.3,8.9,9.0,2.5,1.8,1.9
+2533,Specialist Physicians,29.7,34.3,15.8,9.4,5.6,3.0,0.9,1.3
+2534,Psychiatrists,29.7,34.4,15.2,10.5,4.0,2.4,1.6,2.2
+2535,Surgeons,25.5,30.7,21.8,7.9,8.4,2.8,1.3,1.6
+2539,Other Medical Practitioners,32.5,28.8,16.5,6.9,11.3,1.4,1.2,1.4
+2541,Midwives,31.1,22.4,21.4,8.6,11.1,2.3,1.7,1.3
+2542,Nurse Educators and Researchers,28.9,26.2,26.7,2.8,9.5,2.7,2.0,1.2
+2543,Nurse Managers,29.8,24.3,21.9,9.5,8.2,3.6,1.3,1.4
+2544,Registered Nurses,27.7,26.9,22.6,7.6,10.8,2.0,1.2,1.3
+2611,ICT Business and Systems Analysts,34.7,36.2,14.8,3.7,5.9,1.0,0.3,3.4
+2612,Multimedia Specialists and Web Developers,28.1,31.1,22.0,4.9,7.8,2.2,0.9,3.0
+2613,Software and Applications Programmers,35.6,35.3,13.7,4.0,6.4,0.6,0.2,4.1
+2621,"Database and Systems Administrators, and ICT Security Specialists",30.9,32.0,15.4,4.9,8.9,1.5,0.5,5.9
+2631,Computer Network Professionals,38.9,29.1,10.9,5.8,8.8,1.0,1.0,4.6
+2632,ICT Support and Test Engineers,39.6,22.4,18.3,6.5,7.5,1.1,0.7,4.0
+2633,Telecommunications Engineering Professionals,42.0,34.3,8.5,2.5,7.0,1.4,0.8,3.6
+2711,Barristers,38.5,31.9,12.1,4.9,6.2,2.1,1.6,2.7
+2712,Judicial and Other Legal Professionals,27.4,24.6,18.1,6.0,10.6,3.0,1.8,8.5
+2713,Solicitors,38.6,28.8,15.4,4.0,7.8,1.2,0.7,3.4
+2721,Counsellors,23.1,25.1,32.0,9.1,6.2,1.2,1.9,1.5
+2722,Ministers of Religion,29.8,18.6,23.3,9.2,13.2,2.8,1.2,1.9
+2723,Psychologists and Psychotherapists,33.1,26.2,19.8,6.6,9.4,2.3,0.7,1.8
+2724,Social Professionals,26.0,38.0,14.1,3.2,11.4,1.7,2.3,3.3
+2725,Social Workers,21.9,31.6,22.9,9.6,8.5,2.5,1.4,1.5
+2726,"Welfare, Recreation and Community Arts Workers",26.5,27.9,24.4,6.2,9.5,1.7,1.8,1.9
+3111,Agricultural Technicians,17.4,27.7,23.2,5.6,11.0,7.0,3.7,4.4
+3112,Medical Technicians,32.5,22.2,23.8,6.7,11.2,1.4,0.8,1.4
+3113,Primary Products Inspectors,28.5,20.4,16.9,4.7,18.7,3.8,2.3,4.7
+3114,Science Technicians,22.0,17.3,24.3,8.9,20.3,3.2,1.1,2.9
+3121,"Architectural, Building and Surveying Technicians",31.1,25.8,21.8,5.6,12.0,1.7,0.8,1.2
+3122,Civil Engineering Draftspersons and Technicians,29.7,13.7,25.9,9.4,17.1,1.5,1.5,1.2
+3123,"Electrical Engineering Draftspersons, Technicians",27.0,25.1,23.4,5.3,14.4,2.2,1.4,1.1
+3124,"Electronic Engineering Draftspersons, Technicians",31.8,19.9,24.3,8.6,9.9,1.8,1.7,2.0
+3125,"Mechanical Engineering Draftspersons, Technicians",16.9,17.0,25.3,6.5,28.6,2.2,1.7,1.9
+3126,Safety Inspectors,33.8,14.0,18.9,5.4,20.7,1.9,2.3,2.8
+3129,Other Building and Engineering Technicians,17.5,8.3,27.5,6.8,37.1,1.3,1.2,0.4
+3131,ICT Support Technicians,36.4,24.8,17.7,5.8,8.6,1.6,1.2,3.9
+3132,Telecommunications Technical Specialists,33.0,23.9,22.0,3.9,8.1,3.4,2.9,2.8
+3211,Automotive Electricians,16.9,18.3,31.0,4.1,26.0,1.5,1.3,0.9
+3212,Motor Mechanics,26.3,24.7,25.0,6.9,12.6,2.0,1.4,1.2
+3221,"Metal Casting, Forging and Finishing Trades",10.6,32.1,27.0,13.5,4.2,4.2,4.2,4.2
+3222,Sheetmetal Trades Workers,25.6,22.2,22.4,7.1,14.9,2.8,3.0,1.9
+3223,Structural Steel and Welding Trades Workers,25.1,18.5,22.1,9.0,20.7,3.1,1.0,0.4
+3231,Aircraft Maintenance Engineers,35.1,22.9,19.5,5.0,10.4,1.3,4.8,1.0
+3232,Metal Fitters and Machinists,20.9,16.9,24.6,6.7,27.3,2.2,1.1,0.1
+3233,Precision Metal Trades Workers,33.1,27.9,16.2,4.6,12.3,2.0,1.7,2.2
+3234,Toolmakers and Engineering Patternmakers,28.4,32.7,12.3,12.0,5.8,3.0,2.9,2.9
+3241,Panelbeaters,34.6,23.6,17.1,6.0,13.5,3.0,1.4,0.8
+3242,Vehicle Body Builders and Trimmers,18.9,31.6,27.3,3.9,12.7,2.5,1.6,1.6
+3243,Vehicle Painters,31.6,26.2,18.1,8.2,10.7,2.8,1.2,1.3
+3311,Bricklayers and Stonemasons,28.5,28.0,14.5,6.6,19.2,1.4,0.6,1.2
+3312,Carpenters and Joiners,31.3,29.9,19.9,6.3,8.3,2.3,0.7,1.3
+3321,Floor Finishers,29.3,30.3,19.3,7.0,8.7,2.5,1.1,1.9
+3322,Painting Trades Workers,30.7,23.4,23.9,7.0,10.1,2.9,0.5,1.6
+3331,Glaziers,29.0,19.0,24.3,4.6,15.6,3.7,1.7,2.1
+3332,Plasterers,25.5,29.4,23.9,9.0,8.1,2.2,0.8,1.0
+3333,Roof Tilers,32.3,14.6,38.5,3.7,6.3,1.2,1.2,2.1
+3334,Wall and Floor Tilers,35.8,16.5,26.3,7.6,10.8,1.2,0.8,1.0
+3341,Plumbers,29.0,30.8,18.0,5.1,13.4,1.7,0.7,1.3
+3411,Electricians,28.9,21.9,24.4,6.2,14.3,1.7,1.2,1.3
+3421,Airconditioning and Refrigeration Mechanics,29.8,19.8,28.3,8.2,10.5,0.9,1.5,1.0
+3422,Electrical Distribution Trades Workers,31.7,23.6,16.0,7.6,15.7,3.2,0.9,1.3
+3423,Electronics Trades Workers,31.7,27.0,20.8,5.7,10.4,1.7,0.8,1.9
+3424,Telecommunications Trades Workers,33.8,20.5,24.6,5.3,11.4,1.4,1.8,1.2
+3511,Bakers and Pastrycooks,27.5,25.6,23.1,5.7,13.6,2.4,1.0,1.0
+3512,Butchers and Smallgoods Makers,32.6,17.3,26.4,6.8,10.4,3.7,1.0,1.7
+3513,Chefs,30.0,28.7,20.1,5.4,10.7,1.8,1.4,1.9
+3514,Cooks,31.5,24.0,20.9,7.5,10.6,2.2,1.6,1.6
+3611,Animal Attendants and Trainers,27.6,28.9,21.1,5.7,12.8,2.0,0.9,1.0
+3612,Shearers,12.7,34.9,4.0,16.1,17.8,7.8,3.4,3.4
+3613,Veterinary Nurses,29.9,28.2,23.1,5.9,9.0,2.0,0.8,1.2
+3621,Florists,26.7,28.4,17.4,8.5,10.8,2.9,2.0,3.3
+3622,Gardeners,26.0,26.7,20.6,10.1,10.9,2.7,0.8,2.3
+3623,Greenkeepers,29.7,15.7,27.5,8.1,10.8,4.6,1.8,1.8
+3624,Nurserypersons,17.5,34.3,13.5,8.1,14.9,5.9,2.9,2.9
+3911,Hairdressers,33.0,23.4,23.1,8.2,9.0,1.7,0.6,1.0
+3921,Print Finishers and Screen Printers,29.0,31.8,16.3,6.9,6.5,3.0,2.9,3.7
+3922,Graphic Pre-press Trades Workers,42.5,21.0,5.8,7.1,6.1,5.8,4.8,7.0
+3923,Printers,25.7,36.1,17.9,10.5,5.3,1.9,1.0,1.5
+3931,Canvas and Leather Goods Makers,27.9,11.5,12.7,10.0,20.1,5.9,5.2,6.7
+3932,Clothing Trades Workers,33.1,28.3,16.2,8.9,8.4,2.1,1.5,1.4
+3933,Upholsterers,28.9,16.6,28.5,3.9,9.8,4.6,3.9,3.9
+3941,Cabinetmakers,23.3,27.8,24.8,8.0,12.8,1.1,0.6,1.7
+3942,Wood Machinists and Other Wood Trades Workers,19.4,25.0,18.3,9.3,15.6,5.7,3.1,3.5
+3991,Boat Builders and Shipwrights,24.2,10.6,26.5,6.6,21.4,5.0,3.0,2.8
+3992,"Chemical, Gas, Petroleum and Power Plant Operators",12.8,21.2,35.3,8.2,18.0,1.3,2.1,1.2
+3993,"Gallery, Library and Museum Technicians",11.9,50.7,2.7,5.3,21.3,4.7,1.5,1.8
+3994,Jewellers,23.8,20.1,26.8,6.5,15.3,2.8,2.4,2.3
+3995,Performing Arts Technicians,30.2,32.0,20.5,2.9,10.1,1.4,0.9,2.0
+3996,Signwriters,25.1,33.8,19.7,6.5,8.9,2.3,1.8,1.7
+3999,Other Miscellaneous Technicians and Trades Workers,30.1,28.4,18.6,9.0,8.7,3.0,0.7,1.6
+4111,Ambulance Officers and Paramedics,37.2,23.8,18.7,7.9,6.6,2.9,1.6,1.4
+4112,"Dental Hygienists, Technicians and Therapists",25.4,17.8,22.2,6.9,21.3,1.8,1.3,3.3
+4113,Diversional Therapists,34.7,25.7,20.4,7.5,4.2,3.9,1.8,1.9
+4114,Enrolled and Mothercraft Nurses,21.9,23.5,22.0,14.6,12.7,2.7,0.8,1.9
+4115,Indigenous Health Workers,9.9,21.7,14.5,10.4,12.0,6.8,17.8,6.8
+4116,Massage Therapists,35.6,24.9,20.9,6.2,9.1,1.7,0.6,1.0
+4117,Welfare Support Workers,26.4,22.1,22.0,9.7,12.8,2.7,2.7,1.6
+4211,Child Carers,34.7,22.5,24.7,6.1,7.7,1.1,1.1,2.2
+4221,Education Aides,22.9,28.0,19.9,7.9,15.4,2.8,1.4,1.7
+4231,Aged and Disabled Carers,29.7,24.4,20.4,9.7,10.8,3.0,1.0,1.1
+4232,Dental Assistants,31.2,25.1,20.9,6.2,10.8,2.2,0.9,2.6
+4233,Nursing Support and Personal Care Workers,29.2,26.9,23.1,5.6,10.9,2.6,0.6,1.0
+4234,Special Care Workers,14.5,18.4,29.9,6.7,17.9,4.3,5.0,3.3
+4311,Bar Attendants and Baristas,33.7,22.9,23.0,4.9,11.7,1.6,0.6,1.5
+4312,Cafe Workers,29.9,21.6,22.7,8.1,13.7,2.1,0.9,1.1
+4313,Gaming Workers,21.8,34.9,22.3,5.5,6.4,2.4,4.4,2.3
+4314,Hotel Service Managers,25.4,26.9,27.7,3.4,10.2,3.5,1.6,1.3
+4315,Waiters,30.0,30.0,19.9,7.3,7.8,2.4,0.5,2.1
+4319,Other Hospitality Workers,30.8,17.8,19.8,7.4,17.5,2.4,2.2,2.2
+4411,Defence Force Members - Other Ranks,28.9,9.6,32.5,7.9,7.9,0.4,7.7,5.0
+4412,Fire and Emergency Workers,26.5,29.3,18.1,5.9,12.6,3.2,2.5,1.8
+4413,Police,28.4,24.3,20.4,7.6,10.4,2.1,4.2,2.6
+4421,Prison Officers,30.4,20.7,19.8,7.6,15.5,1.3,4.3,0.5
+4422,Security Officers and Guards,27.1,24.2,21.1,7.2,13.1,1.8,2.5,3.0
+4511,Beauty Therapists,33.1,25.7,20.7,5.6,12.3,1.6,0.4,0.6
+4512,Driving Instructors,45.3,19.8,13.4,4.8,10.8,1.8,1.7,2.6
+4513,Funeral Workers,33.8,27.0,19.1,3.6,9.0,3.2,2.1,2.1
+4514,"Gallery, Museum and Tour Guides",34.1,16.2,16.7,5.9,11.3,6.6,6.1,3.1
+4515,Personal Care Consultants,43.8,20.8,8.5,4.8,15.5,2.2,2.1,2.1
+4516,Tourism and Travel Advisers,36.8,21.0,20.3,5.6,11.9,2.2,0.9,1.3
+4517,Travel Attendants,42.3,21.4,20.4,3.4,8.3,1.1,1.4,1.8
+4518,Other Personal Service Workers,38.4,21.6,24.1,5.6,8.6,0.5,0.4,0.7
+4521,Fitness Instructors,38.3,19.9,18.7,7.9,11.3,1.2,0.5,2.2
+4522,Outdoor Adventure Guides,21.3,30.4,18.2,7.7,12.9,4.1,2.7,2.8
+4523,"Sports Coaches, Instructors and Officials",39.5,28.3,14.4,4.5,9.5,1.1,0.4,2.3
+4524,Sportspersons,39.2,24.8,12.2,5.4,13.9,1.5,1.3,1.7
+5111,"Contract, Program and Project Administrators",28.6,22.6,21.1,6.6,12.9,1.4,1.4,5.3
+5121,Office Managers,28.6,25.2,22.6,7.2,10.0,2.3,1.4,2.6
+5122,Practice Managers,32.2,23.3,23.3,6.7,9.7,2.2,1.0,1.5
+5211,Personal Assistants,34.9,26.4,17.9,6.4,7.8,1.5,0.8,4.4
+5212,Secretaries,40.5,15.9,16.8,9.2,11.9,1.7,1.7,2.3
+5311,General Clerks,31.1,23.2,19.4,6.5,10.8,2.2,1.5,5.3
+5321,Keyboard Operators,26.9,27.2,23.8,7.9,9.4,2.2,1.1,1.5
+5411,Call or Contact Centre Workers,24.0,27.0,26.6,9.1,8.1,3.2,0.5,1.5
+5412,Information Officers,34.1,31.6,17.1,5.4,8.1,1.6,0.7,1.4
+5421,Receptionists,29.9,27.3,22.4,6.3,9.6,1.9,1.0,1.6
+5511,Accounting Clerks,32.1,24.2,20.0,5.6,13.1,1.8,1.1,2.2
+5512,Bookkeepers,27.0,26.4,24.3,6.6,11.4,2.1,1.2,1.0
+5513,Payroll Clerks,27.4,24.6,26.8,6.9,10.0,1.7,0.9,1.7
+5521,Bank Workers,38.3,32.8,13.2,7.0,6.3,1.2,0.8,0.4
+5522,Credit and Loans Officers,38.3,30.8,18.7,5.4,4.3,1.4,0.3,0.7
+5523,"Insurance, Money Market and Statistical Clerks",36.9,25.1,21.3,5.9,7.5,1.4,0.5,1.4
+5611,Betting Clerks,34.8,13.0,12.7,8.3,7.0,7.0,12.2,5.0
+5612,Couriers and Postal Deliverers,31.5,23.3,21.5,8.2,10.9,2.4,0.6,1.5
+5613,Filing and Registry Clerks,30.4,22.0,17.3,9.7,14.8,1.3,1.2,3.3
+5614,Mail Sorters,34.9,32.3,12.9,7.2,9.0,1.1,1.3,1.4
+5615,Survey Interviewers,16.0,21.4,19.0,7.5,14.0,9.8,6.1,6.1
+5616,Switchboard Operators,27.6,17.1,23.6,10.9,9.4,4.0,3.4,4.0
+5619,Other Clerical and Office Support Workers,13.3,38.7,11.9,11.1,16.8,3.7,3.0,1.7
+5911,Purchasing and Supply Logistics Clerks,29.2,29.9,16.6,7.7,13.1,1.4,0.7,1.4
+5912,Transport and Despatch Clerks,35.8,24.6,20.3,4.5,11.7,1.7,0.7,0.8
+5991,Conveyancers and Legal Executives,34.0,22.6,21.4,5.3,12.4,1.2,0.8,2.3
+5992,Court and Legal Clerks,27.1,32.5,20.7,6.2,9.2,1.1,1.0,2.2
+5993,Debt Collectors,27.1,23.4,27.1,8.1,8.9,2.4,1.5,1.4
+5994,Human Resource Clerks,30.4,23.5,23.5,7.6,10.4,1.3,0.8,2.4
+5995,Inspectors and Regulatory Officers,38.2,21.8,18.4,6.1,8.4,2.3,1.4,3.5
+5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors",47.2,26.1,10.0,7.1,5.1,1.6,1.4,1.6
+5997,Library Assistants,26.7,18.2,33.7,9.2,6.9,2.4,1.4,1.5
+5999,Other Miscellaneous Clerical and Administrative Workers,32.3,28.9,18.1,5.1,10.2,1.6,1.2,2.6
+6111,"Auctioneers, and Stock and Station Agents",32.9,14.7,28.6,6.8,5.6,4.9,3.3,3.3
+6112,Insurance Agents,43.6,22.0,18.0,5.0,8.0,1.5,0.8,1.1
+6113,Sales Representatives,32.3,30.0,19.4,5.8,9.4,1.6,0.5,1.0
+6121,Real Estate Sales Agents,34.5,21.6,23.6,4.6,11.5,1.7,0.8,1.7
+6211,Sales Assistants (General),31.0,26.4,21.1,6.8,10.3,2.2,0.8,1.3
+6212,ICT Sales Assistants,41.3,29.8,10.1,5.8,9.8,0.7,0.6,1.8
+6213,Motor Vehicle and Vehicle Parts Salespersons,33.9,17.3,23.4,9.4,12.6,1.6,0.8,0.9
+6214,Pharmacy Sales Assistants,34.8,24.3,22.1,6.9,7.5,2.1,0.6,1.7
+6215,Retail Supervisors,27.8,23.6,24.4,8.9,11.1,2.3,0.9,1.0
+6216,Service Station Attendants,23.3,19.0,25.9,6.6,18.3,3.1,2.0,1.9
+6217,Street Vendors and Related Salespersons,21.0,35.9,20.5,5.7,7.2,5.0,2.2,2.4
+6219,Other Sales Assistants and Salespersons,21.0,20.8,31.0,8.2,12.4,3.1,1.4,2.1
+6311,Checkout Operators and Office Cashiers,28.9,25.2,19.3,9.1,12.7,2.3,1.0,1.4
+6391,Models and Sales Demonstrators,24.8,30.4,21.5,4.3,14.5,1.1,1.1,2.5
+6392,Retail and Wool Buyers,25.6,43.0,15.8,6.2,4.7,1.5,1.6,1.5
+6393,Telemarketers,26.8,33.1,22.7,6.1,4.6,2.8,2.0,2.0
+6394,Ticket Salespersons,29.2,28.8,25.2,3.5,7.5,2.3,1.7,1.8
+6395,Visual Merchandisers,38.5,25.4,15.3,6.1,9.6,1.3,1.3,2.6
+6399,Other Sales Support Workers,27.9,19.5,20.6,6.8,18.0,3.2,1.8,2.1
+7111,"Clay, Concrete, Glass and Stone Processing Machine Operators",23.2,36.3,16.8,7.2,8.2,2.8,2.5,2.9
+7112,Industrial Spraypainters,31.4,10.5,23.4,12.9,14.6,2.8,2.5,1.8
+7113,Paper and Wood Processing Machine Operators,26.9,22.8,18.4,16.1,9.1,3.5,1.5,1.7
+7114,Photographic Developers and Printers,17.9,17.3,22.2,8.6,16.6,5.1,5.1,7.1
+7115,Plastics and Rubber Production Machine Operators,33.7,27.8,12.4,7.0,16.0,1.1,1.0,1.0
+7116,Sewing Machinists,30.3,22.4,21.2,5.1,15.6,2.1,1.6,1.6
+7117,Textile and Footwear Production Machine Operators,11.3,50.6,8.9,6.0,9.8,4.4,4.6,4.4
+7119,Other Machine Operators,24.7,30.7,16.1,8.0,14.4,2.4,1.1,2.6
+7121,"Crane, Hoist and Lift Operators",24.1,19.7,28.0,5.8,19.5,1.4,0.9,0.6
+7122,"Drillers, Miners and Shot Firers",17.9,3.3,25.9,6.8,42.8,2.1,1.1,0.2
+7123,Engineering Production Workers,29.9,16.7,20.3,12.3,16.8,2.9,0.5,0.6
+7129,Other Stationary Plant Operators,25.1,15.8,26.7,8.0,19.3,3.7,0.8,0.5
+7211,"Agricultural, Forestry and Horticultural Plant Operators",27.4,14.5,22.5,10.0,17.1,7.1,0.7,0.7
+7212,Earthmoving Plant Operators,26.3,19.3,27.4,7.2,14.5,3.6,1.3,0.5
+7213,Forklift Drivers,28.8,32.3,19.5,6.4,11.0,1.5,0.4,0.1
+7219,Other Mobile Plant Operators,32.0,15.9,28.5,7.6,11.5,1.3,1.9,1.4
+7311,Automobile Drivers,31.6,26.0,25.5,4.9,9.3,1.1,0.7,1.0
+7312,Bus and Coach Drivers,30.8,22.7,23.4,6.5,11.3,2.0,1.2,2.1
+7313,Train and Tram Drivers,43.6,18.0,25.9,4.6,6.0,0.6,0.7,0.6
+7321,Delivery Drivers,27.9,29.7,22.2,5.8,11.1,1.7,0.5,1.2
+7331,Truck Drivers,27.4,22.6,22.9,7.2,16.2,2.1,0.9,0.7
+7411,Storepersons,31.5,29.2,21.6,4.9,10.4,1.4,0.5,0.5
+8111,Car Detailers,25.9,20.5,28.6,8.7,11.8,1.7,1.8,1.0
+8112,Commercial Cleaners,28.6,23.0,21.2,8.2,13.1,2.8,1.0,2.0
+8113,Domestic Cleaners,26.9,23.2,23.7,11.3,11.0,2.3,0.6,1.0
+8114,Housekeepers,37.0,18.1,17.7,8.7,11.2,4.1,1.7,1.5
+8115,Laundry Workers,37.5,19.6,21.5,4.3,11.4,2.8,1.3,1.7
+8116,Other Cleaners,30.0,23.7,22.7,5.4,14.0,1.8,1.3,1.2
+8211,Building and Plumbing Labourers,36.2,24.8,19.4,6.7,9.3,1.2,0.7,1.5
+8212,Concreters,28.4,30.6,21.0,6.7,10.2,1.4,0.8,0.9
+8213,Fencers,29.7,25.3,19.3,8.5,11.8,3.1,1.3,1.1
+8214,Insulation and Home Improvement Installers,29.9,25.4,29.1,5.8,7.7,1.2,0.4,0.7
+8215,Paving and Surfacing Labourers,28.3,25.1,23.8,9.0,3.4,7.0,1.8,1.7
+8216,Railway Track Workers,34.2,21.0,22.0,2.7,14.3,1.9,2.0,1.9
+8217,Structural Steel Construction Workers,21.9,16.7,23.6,5.1,30.4,0.7,0.5,1.2
+8219,Other Construction and Mining Labourers,17.3,12.3,19.5,7.7,38.2,1.9,1.8,1.3
+8311,Food and Drink Factory Workers,28.9,35.9,18.4,7.3,3.3,5.1,0.5,0.6
+8312,"Meat Boners and Slicers, and Slaughterers",4.8,27.9,38.8,8.1,15.2,2.5,1.3,1.3
+8313,"Meat, Poultry and Seafood Process Workers",25.0,24.2,25.3,11.8,8.2,4.2,0.7,0.6
+8321,Packers,30.8,28.8,19.3,8.8,9.9,1.7,0.3,0.5
+8322,Product Assemblers,29.9,35.4,20.8,8.2,3.9,0.6,0.4,0.7
+8391,Metal Engineering Process Workers,36.8,23.4,17.9,6.8,10.4,2.0,1.2,1.4
+8392,Plastics and Rubber Factory Workers,20.8,41.8,15.7,3.9,7.1,3.6,3.4,3.5
+8393,Product Quality Controllers,28.4,30.0,15.2,11.5,11.7,1.5,0.8,0.9
+8394,Timber and Wood Process Workers,37.2,22.7,7.9,9.8,10.2,7.1,2.4,2.6
+8399,Other Factory Process Workers,24.7,27.9,23.0,9.2,10.8,2.2,1.1,1.1
+8411,Aquaculture Workers,8.3,10.7,19.8,7.9,12.0,24.2,8.2,8.8
+8412,Crop Farm Workers,11.6,21.0,37.5,12.5,11.3,4.5,1.0,0.5
+8413,Forestry and Logging Workers,24.5,12.7,11.1,21.2,6.7,14.6,4.6,4.6
+8414,Garden and Nursery Labourers,28.5,20.0,31.9,5.6,10.8,1.6,0.7,0.9
+8415,Livestock Farm Workers,23.7,27.8,19.1,10.9,9.6,4.8,3.3,0.8
+8416,Mixed Crop and Livestock Farm Workers,14.2,22.6,24.4,20.4,9.0,4.3,2.6,2.5
+8419,"Other Farm, Forestry and Garden Workers",24.7,22.6,32.6,6.7,8.3,3.0,1.3,0.7
+8511,Fast Food Cooks,29.2,24.2,27.1,7.2,7.8,2.4,0.7,1.4
+8512,Food Trades Assistants,24.6,27.7,19.4,11.0,7.8,3.8,2.2,3.6
+8513,Kitchenhands,27.4,23.1,22.8,6.7,15.5,2.6,0.8,1.2
+8911,Freight and Furniture Handlers,30.1,26.2,24.0,4.5,10.0,2.6,1.1,1.5
+8912,Shelf Fillers,26.4,25.1,22.4,8.6,13.7,2.4,0.7,0.8
+8991,Caretakers,26.9,19.5,27.7,7.0,11.5,3.0,1.9,2.5
+8992,Deck and Fishing Hands,43.8,8.6,14.5,9.2,10.9,9.3,2.2,1.5
+8993,Handypersons,36.8,24.7,17.2,6.8,9.3,2.7,1.2,1.3
+8994,Motor Vehicle Parts and Accessories Fitters,21.3,22.4,28.4,7.5,16.6,2.0,1.2,0.7
+8995,Printing Assistants and Table Workers,17.3,42.5,19.1,5.6,6.3,3.1,3.1,3.2
+8996,Recycling and Rubbish Collectors,39.8,17.7,22.6,4.0,6.3,2.8,4.1,2.7
+8997,Vending Machine Attendants,45.6,13.3,24.3,5.5,2.5,3.8,2.5,2.5
+8999,Other Miscellaneous Labourers,29.2,23.5,26.3,3.2,15.1,1.3,0.8,0.6
+111211,Corporate General Managers,32.2,26.8,19.4,6.1,10.4,1.8,1.0,2.3
+111212,Defence Force Senior Officers,30.7,8.1,12.2,4.1,3.2,0.5,2.0,39.1
+111311,Local Government Legislators,22.1,19.7,31.4,7.5,12.2,4.6,2.3,0.3
+111312,Members of Parliament,23.2,22.2,16.3,11.1,13.7,6.3,3.4,4.6
+111399,Other Legislators,13.5,17.6,32.4,8.8,2.7,2.7,14.9,6.8
+121211,Cotton Growers,45.8,0.0,48.4,0.0,2.6,0.0,0.0,0.0
+121212,Flower Growers,28.9,37.3,13.6,7.7,6.5,5.8,0.3,0.0
+121213,Fruit and Nut Growers,26.3,19.0,31.5,8.3,9.2,4.1,1.6,0.1
+121214,"Grain, Oilseed and Pasture Growers",23.7,23.1,13.6,17.1,21.9,0.4,0.1,0.1
+121215,Grape Growers,14.5,29.6,1.8,40.0,9.2,4.7,0.0,0.3
+121216,Mixed Crop Farmers,28.3,15.4,30.8,12.5,9.6,2.3,1.3,0.0
+121217,Sugar Cane Growers,7.0,0.2,92.5,0.0,0.1,0.0,0.0,0.0
+121218,Turf Growers,45.9,8.9,31.7,4.3,7.6,0.0,1.0,1.0
+121221,Vegetable Growers,23.7,22.9,21.3,17.6,9.2,4.2,0.9,0.1
+121299,Other Crop Farmers,26.5,25.9,24.8,8.4,10.3,3.4,0.7,0.1
+121311,Beekeepers,35.2,17.5,19.9,11.1,9.9,5.2,0.3,0.4
+121312,Beef Cattle Farmers,29.2,21.5,35.1,3.5,6.3,3.3,1.1,0.1
+121313,Dairy Cattle Farmers,14.0,63.1,7.1,5.0,2.8,7.9,0.0,0.0
+121314,Deer Farmers,,,,,,,,
+121315,Goat Farmers,43.1,20.8,22.7,4.2,4.2,3.7,0.0,0.0
+121316,Horse Breeders,40.5,28.6,15.9,4.9,8.7,0.8,0.0,0.3
+121317,Mixed Livestock Farmers,43.3,25.4,9.4,11.1,6.0,4.9,0.0,0.2
+121318,Pig Farmers,17.3,27.6,23.3,18.3,12.3,2.5,0.0,0.0
+121321,Poultry Farmers,32.4,30.4,15.6,11.3,7.7,2.1,0.0,0.2
+121322,Sheep Farmers,34.3,29.6,3.1,16.6,12.3,3.9,0.0,0.2
+121399,Other Livestock Farmers,32.7,24.0,22.3,9.5,6.0,3.7,2.2,0.0
+131112,Sales and Marketing Managers,37.9,28.7,17.7,5.4,8.2,0.9,0.4,0.9
+131113,Advertising Managers,52.0,29.1,10.4,2.7,4.9,0.5,0.2,0.7
+131114,Public Relations Managers,38.1,29.5,12.7,3.8,7.0,1.3,0.9,6.6
+133111,Construction Project Managers,34.2,27.5,18.4,5.7,9.3,1.6,1.0,2.2
+133112,Project Builders,33.8,27.7,19.5,6.0,6.5,4.2,0.7,1.6
+133311,Importers and Exporters,31.7,35.3,17.4,5.6,7.5,1.3,0.4,0.6
+133312,Wholesalers,32.8,29.2,17.9,6.4,10.5,1.8,0.6,0.7
+133511,Forest Managers,19.9,32.6,11.3,9.2,14.8,9.9,1.0,0.7
+133512,Manufacturing Production Managers,29.4,33.5,18.4,7.5,8.5,1.9,0.2,0.4
+133513,Mine Managers,14.8,5.9,25.9,6.0,44.8,1.3,1.0,0.1
+133611,Supply and Distribution Managers,34.0,28.8,17.8,6.0,9.8,1.3,0.9,1.4
+133612,Procurement Managers,34.8,30.0,15.3,5.2,9.4,1.0,0.6,3.7
+134211,Medical Administrators,29.8,28.5,21.4,6.2,8.7,1.6,1.1,2.6
+134212,Nursing Clinical Directors,27.6,24.1,24.9,9.8,6.9,3.6,1.2,2.4
+134213,Primary Health Organisation Managers,22.6,29.3,20.3,4.5,8.6,1.1,4.9,4.5
+134214,Welfare Centre Managers,30.0,28.3,18.5,7.5,7.3,2.0,2.4,3.5
+134299,Other Health and Welfare Services Managers,35.2,23.9,19.0,7.7,9.0,2.2,1.3,1.8
+134411,Faculty Heads,37.3,27.9,17.1,5.2,6.9,1.5,0.6,3.4
+134412,Regional Education Managers,26.8,25.3,21.7,9.6,8.9,1.7,2.9,3.1
+134499,Education Managers (not covered elsewhere),30.1,32.1,16.9,7.1,7.6,2.2,1.2,2.9
+135111,Chief Information Officers,40.6,31.3,14.3,4.0,6.2,0.8,0.2,2.6
+135112,ICT Project Managers,38.5,30.7,12.9,4.1,6.2,0.8,0.4,6.5
+135199,Other ICT Managers,39.3,30.2,12.8,4.7,6.4,0.9,0.6,5.1
+139111,Commissioned Defence Force Officers,28.9,9.1,19.2,5.3,5.0,0.4,4.0,27.8
+139112,Commissioned Fire Officers,26.9,28.8,17.9,7.6,10.6,3.8,2.1,1.7
+139113,Commissioned Police Officers,37.4,24.4,13.3,6.8,8.1,3.5,2.4,4.1
+139911,Arts Administrators and Managers,32.1,30.1,12.6,5.7,9.2,3.0,2.5,4.1
+139912,Environmental Managers,32.8,26.2,16.8,5.2,13.5,1.8,1.2,2.3
+139913,Laboratory Managers,27.7,26.5,19.8,7.9,12.9,2.2,0.8,2.3
+139914,Quality Assurance Managers,33.5,31.5,16.4,6.3,8.9,1.4,0.6,1.3
+139915,Sports Administrators,28.5,29.3,17.5,6.9,10.1,2.4,1.9,3.6
+139999,Specialist Managers (not covered elsewhere),33.9,26.3,16.9,6.0,10.5,1.9,1.0,3.4
+141911,Bed and Breakfast Operators,24.4,21.8,19.2,10.3,12.7,9.5,0.9,0.2
+141912,Retirement Village Managers,32.2,23.4,23.1,8.9,9.7,1.8,0.0,1.6
+141999,Accommodation and Hospitality Managers (not covered elsewhere),25.1,21.7,20.5,6.6,17.1,5.7,2.0,1.1
+142111,Retail Managers (General),29.6,26.7,21.2,7.3,10.4,2.3,0.8,1.6
+142112,Antique Dealers,30.0,29.0,13.3,10.4,7.2,7.1,0.0,2.0
+142113,Betting Agency Managers,28.5,29.6,10.5,2.6,25.7,3.1,1.0,0.0
+142114,Hair and Beauty Salon Managers,26.4,25.6,24.9,6.6,11.3,2.4,0.6,2.0
+142115,Post Office Managers,29.7,26.7,18.0,9.8,10.9,3.1,0.6,1.3
+142116,Travel Agency Managers,39.1,22.3,22.7,5.2,7.1,1.1,0.4,1.0
+149111,Amusement Centre Managers,22.5,31.5,22.4,6.5,12.2,1.9,0.8,2.1
+149112,Fitness Centre Managers,29.7,26.3,23.0,5.9,11.2,1.4,0.6,2.1
+149113,Sports Centre Managers,26.7,30.4,19.8,5.7,13.0,1.4,1.0,1.9
+149211,Call Centre or Contact Centre Managers,32.4,28.0,21.0,7.5,7.2,1.7,0.6,1.6
+149212,Customer Service Managers,36.1,27.1,17.8,6.1,8.9,1.5,0.7,1.7
+149411,Fleet Managers,31.4,26.6,20.3,5.4,11.7,1.9,1.6,1.0
+149412,Railway Station Managers,43.8,19.3,30.1,3.0,3.2,0.0,0.0,0.0
+149413,Transport Company Managers,27.1,28.5,23.7,6.4,10.8,2.0,0.7,0.8
+149911,Boarding Kennel and Cattery Operators,22.9,26.3,20.7,6.6,17.7,4.4,1.0,0.0
+149912,Cinema and Theatre Managers,27.9,32.2,18.7,6.1,10.5,2.3,0.3,2.1
+149913,Facilities Managers,33.1,24.9,20.6,6.5,10.1,1.5,1.1,2.3
+149914,Bank Managers and Branch Managers,38.8,25.8,16.5,6.7,8.8,1.6,0.5,1.1
+149915,Equipment Hire Managers,28.0,22.5,24.9,5.5,15.5,1.5,1.4,0.9
+149999,"Hospitality, Retail and Service Managers (not covered elsewhere)",31.2,26.1,20.7,6.6,10.0,2.3,1.2,2.0
+211111,Actors,35.4,33.6,17.0,4.9,7.2,0.9,0.0,1.0
+211112,Dancers and Choreographers,16.2,28.2,30.6,7.2,14.9,1.1,2.0,1.4
+211113,Entertainers and Variety Artists,23.1,27.1,27.0,6.6,12.2,1.8,0.7,2.1
+211199,"Other Actors, Dancers and Entertainers",29.4,27.3,23.9,5.4,9.4,1.6,0.4,2.5
+211211,Composers,45.2,27.8,12.8,5.3,5.6,1.2,0.7,0.7
+211212,Music Directors,33.0,27.8,12.3,12.5,9.4,3.3,0.0,1.3
+211213,Musicians,30.7,23.1,19.7,7.6,11.9,3.8,0.9,2.6
+211214,Singers,35.4,25.6,22.4,5.1,9.1,1.4,0.9,0.0
+211299,Other Music Professionals,39.7,31.0,20.7,6.9,0.0,10.3,0.0,0.0
+211411,Painters (Visual Arts),29.8,26.1,17.8,7.2,11.1,3.6,2.7,1.4
+211412,Potters and Ceramic Artists,29.9,29.0,17.9,7.3,9.0,4.1,0.6,1.1
+211413,Sculptors,29.5,31.9,14.6,7.3,11.0,3.5,0.5,1.9
+211499,Other Visual Arts or Crafts Professionals,27.4,27.5,19.7,9.1,9.0,3.9,1.2,2.0
+212111,Artistic Directors,29.3,27.6,17.1,7.5,8.0,2.8,0.8,3.0
+212112,Media Producers,53.9,26.0,9.2,3.6,4.8,1.0,0.4,0.9
+212113,Radio Presenters,28.0,20.3,22.9,7.3,13.9,2.9,3.0,1.4
+212114,Television Presenters,51.3,22.1,13.3,4.2,4.9,1.4,0.0,2.3
+212211,Authors,34.7,30.5,15.5,6.0,7.2,2.8,0.4,3.0
+212212,Book and Script Editors,37.0,37.1,12.4,5.4,3.7,2.3,0.3,1.9
+212311,"Art Directors (Film, Television or Stage)",45.0,28.4,17.1,5.9,3.6,0.0,0.0,0.0
+212312,"Directors (Film, Television, Radio or Stage)",40.2,29.7,14.6,5.8,6.3,1.7,0.8,0.8
+212313,Cinematographers,40.6,30.5,14.2,4.8,5.1,2.6,0.7,2.4
+212314,Film and Video Editors,46.5,25.9,14.7,3.9,5.2,1.5,0.4,1.9
+212315,Program Directors (Television or Radio),44.4,23.0,11.9,6.0,7.5,2.0,2.2,2.8
+212316,Stage Managers,40.0,27.9,17.7,7.2,7.9,1.0,0.0,2.3
+212317,Technical Directors,50.6,26.9,10.3,6.5,2.9,1.1,0.0,0.6
+212318,Video Producers,40.2,32.6,12.6,5.0,5.3,0.8,0.6,2.4
+212399,"Other Film, Television, Radio and Stage Directors",42.8,30.2,13.5,5.0,5.1,1.1,0.8,1.7
+212411,Copywriters,37.2,34.0,15.9,4.2,6.0,1.4,0.0,1.0
+212412,Newspaper and Periodical Editors,43.8,28.3,12.2,4.0,5.8,1.7,0.4,3.8
+212413,Print Journalists,40.7,25.6,13.1,5.7,8.1,2.9,0.4,3.1
+212414,Radio Journalists,38.5,20.3,19.7,5.5,8.1,2.6,1.2,4.1
+212415,Technical Writers,33.6,27.4,17.7,5.9,10.3,1.6,0.4,2.8
+212416,Television Journalists,45.3,16.6,17.5,6.5,8.1,1.9,0.7,4.0
+212499,"Bloggers, Critics, Sports and Other Writers (not covered elsewhere)",42.8,25.9,13.1,4.7,6.4,1.8,0.4,4.7
+221111,Accountants (General),38.0,28.0,15.6,5.5,9.3,1.3,0.5,2.0
+221112,Management Accountants,33.4,26.9,17.4,6.0,11.6,1.4,0.7,2.6
+221113,Taxation Accountants,36.0,27.2,16.2,5.4,11.7,1.4,0.6,1.5
+221211,Company Secretaries,38.5,24.7,14.7,5.4,12.2,1.7,0.0,1.7
+221212,Corporate Treasurers,57.7,24.9,7.9,4.4,3.7,0.6,0.0,0.7
+221213,External Auditors,36.3,26.6,16.0,6.1,9.7,1.2,0.7,3.4
+221214,Internal Auditors,38.1,27.4,15.9,5.0,9.1,0.9,0.5,3.2
+222111,Commodities Traders,36.9,28.5,18.1,7.0,7.4,1.6,0.1,0.4
+222112,Finance Brokers,34.3,28.3,18.3,6.1,10.4,1.1,0.3,1.2
+222113,Insurance Brokers,34.0,27.5,18.3,6.4,10.4,1.7,0.8,1.0
+222199,Other Financial Brokers,51.3,23.4,20.6,1.8,2.1,0.0,0.0,0.4
+222211,Financial Market Dealers,64.9,17.0,10.5,2.0,3.7,0.5,0.2,0.7
+222212,Futures Traders,75.3,13.5,10.1,0.0,0.0,0.0,0.0,0.0
+222213,Stockbrokers,52.7,23.0,12.2,2.7,8.1,0.4,0.2,0.7
+222299,Other Financial Dealers,43.8,28.3,12.9,4.6,7.3,0.8,0.4,2.0
+222311,Financial Investment Advisers,33.3,29.7,18.0,6.3,9.0,1.4,0.2,2.0
+222312,Financial Investment Managers,50.3,27.0,11.7,3.3,5.6,0.7,0.3,1.1
+223111,Human Resource Advisers,29.7,25.7,19.8,6.0,12.1,1.9,1.0,4.0
+223112,Recruitment Consultants,35.4,25.8,18.4,6.0,10.2,1.5,0.8,1.8
+223113,Workplace Relations Advisers,27.3,27.8,19.5,7.5,10.8,3.4,1.1,2.5
+224111,Actuaries,72.0,17.6,4.7,0.8,1.5,0.3,0.0,2.4
+224112,Mathematicians,47.3,24.4,12.5,7.4,3.3,1.9,0.0,3.8
+224113,Statisticians,25.2,24.5,15.0,7.8,9.1,3.0,1.1,14.6
+224211,Archivists,33.8,24.4,11.2,6.4,8.9,2.6,1.4,11.2
+224212,Gallery and Museum Curators,29.1,26.9,10.8,5.7,9.7,4.2,1.0,12.4
+224213,Health Information Managers,26.7,43.0,15.7,4.1,6.1,1.5,1.0,2.2
+224214,Records Managers,24.5,25.0,14.4,9.5,14.4,2.0,1.9,7.9
+224411,Intelligence Officers,22.7,22.7,20.5,7.3,7.0,1.1,1.2,17.3
+224412,Policy Analysts,20.3,21.6,12.6,4.7,6.7,2.7,1.6,29.9
+224511,Land Economists,35.2,28.0,19.3,4.4,9.2,1.8,0.4,1.6
+224512,Valuers,31.6,26.9,21.1,6.5,9.9,2.1,0.4,1.5
+224711,Management Consultants,37.4,29.9,14.5,4.7,7.7,1.1,0.3,4.4
+224712,Organisation and Methods Analysts,35.3,29.9,15.2,6.1,8.9,1.3,0.3,3.1
+224911,Electorate Officers,23.1,27.3,15.4,8.0,10.3,5.5,2.4,7.8
+224912,Liaison Officers,27.1,25.1,20.2,6.8,10.5,2.5,2.9,4.8
+224913,Migration Agents,33.3,32.0,14.6,5.8,11.4,0.9,0.4,1.3
+224914,Patents Examiners,16.8,18.8,5.6,2.8,1.3,0.0,0.0,52.6
+224999,Information and Organisation Professionals (not covered elsewhere),34.6,30.0,14.2,5.0,8.7,1.1,0.7,5.6
+225111,Advertising Specialists,48.3,31.3,10.4,3.6,4.2,0.9,0.2,1.1
+225112,Market Research Analysts,44.5,32.9,11.5,4.2,4.9,0.7,0.1,1.2
+225113,Marketing Specialists,40.4,30.2,16.0,4.6,6.6,0.8,0.3,1.0
+225211,ICT Account Managers,46.8,27.6,12.4,4.0,5.4,0.5,0.2,3.0
+225212,ICT Business Development Managers,43.4,29.3,13.9,3.5,6.8,0.4,0.1,2.5
+225213,ICT Sales Representatives,47.9,26.6,12.8,4.1,6.1,0.5,0.2,1.9
+225411,Sales Representatives (Industrial Products),28.4,25.1,21.8,6.3,15.8,1.8,0.5,0.4
+225412,Sales Representatives (Medical and Pharmaceutical Products),36.7,24.4,21.1,6.9,9.1,0.9,0.1,0.8
+225499,Other Technical Sales Representatives,35.2,29.6,18.0,6.3,8.9,1.4,0.1,0.5
+231111,Aeroplane Pilots,24.7,18.0,27.3,6.5,16.2,1.2,4.3,1.7
+231112,Air Traffic Controllers,16.6,32.0,33.3,3.1,7.8,0.9,3.8,2.6
+231113,Flying Instructors,26.1,25.2,27.2,7.5,12.3,0.0,0.0,0.3
+231114,Helicopter Pilots,24.0,13.2,38.0,3.4,11.4,2.9,6.1,0.7
+231199,Other Air Transport Professionals,27.9,19.1,31.4,4.5,8.9,0.8,2.0,4.7
+231211,Master Fishers,10.9,6.9,26.4,15.2,31.9,6.4,3.8,0.0
+231212,Marine Engineers,22.3,11.1,24.9,7.5,23.0,6.2,2.7,2.1
+231213,Ship's Masters,23.9,7.4,35.9,5.8,19.0,5.0,2.8,0.1
+231214,Ship's Officers,21.3,13.0,22.2,5.2,25.5,7.0,3.2,1.1
+231215,Marine Surveyors,21.8,11.8,25.3,6.3,27.3,3.5,2.0,1.2
+231299,Other Marine Transport Professionals,27.7,11.5,31.1,5.7,16.2,4.3,0.9,0.6
+232111,Architects,35.0,33.1,14.2,5.6,7.9,1.9,0.3,2.0
+232112,Landscape Architects,32.4,33.6,15.9,5.7,9.2,1.1,0.3,1.8
+232212,Surveyors,30.6,22.9,20.7,5.1,16.8,2.1,0.7,1.1
+232213,Cartographers,16.4,18.3,18.6,4.3,29.1,2.5,1.5,5.9
+232214,Other Spatial Scientists,26.4,20.3,21.1,6.3,15.3,3.4,1.3,5.7
+232311,Fashion Designers,35.9,42.1,12.4,3.5,5.1,0.6,0.1,0.4
+232312,Industrial Designers,38.8,37.9,12.2,4.5,4.1,1.0,0.1,1.2
+232313,Jewellery Designers,38.6,22.8,20.1,6.9,9.8,2.5,0.6,0.7
+232411,Graphic Designers,36.2,30.0,17.0,5.7,7.3,1.4,0.3,2.0
+232412,Illustrators (including Animators),35.8,33.0,16.1,6.7,5.7,1.4,0.3,1.3
+232413,Multimedia Designers,37.8,32.6,15.7,4.7,5.5,1.1,0.3,2.3
+232414,Web Designers,36.3,31.8,17.6,4.1,6.3,1.2,0.3,2.2
+233111,Chemical Engineers,22.4,24.5,19.6,5.2,26.5,0.9,0.5,0.4
+233112,Materials Engineers,26.7,23.7,19.3,5.8,20.7,0.6,0.0,0.9
+233211,Civil Engineers,33.0,26.4,22.4,4.3,10.2,1.4,0.7,1.6
+233212,Geotechnical Engineers,29.7,21.0,22.4,3.3,21.0,1.6,0.4,0.8
+233213,Quantity Surveyors,33.4,24.1,22.1,5.3,10.6,0.8,0.6,2.4
+233214,Structural Engineers,32.2,26.7,19.6,6.1,12.7,1.4,0.6,0.9
+233215,Transport Engineers,31.1,30.7,22.5,4.2,9.3,1.1,0.3,0.8
+233511,Industrial Engineers,29.4,35.7,13.8,8.3,10.5,1.2,0.2,1.0
+233512,Mechanical Engineers,25.7,28.3,18.4,6.3,18.9,1.0,0.4,1.0
+233513,Production and Plant Engineers,25.0,25.0,18.9,5.9,22.1,1.6,0.7,0.8
+233611,Mining Engineers (excluding Petroleum),13.1,5.1,28.4,5.2,46.7,0.9,0.4,0.1
+233612,Petroleum Engineers,3.8,7.6,20.9,6.1,61.1,0.1,0.6,0.0
+233911,Aeronautical Engineers,27.8,26.9,24.7,8.8,2.3,0.0,1.3,8.1
+233912,Agricultural Engineers,24.6,26.2,27.8,8.7,11.9,0.0,0.0,0.0
+233913,Biomedical Engineers,36.5,32.1,14.7,6.4,6.6,1.0,0.4,1.7
+233914,Engineering Technologists,19.7,44.0,15.6,8.5,7.1,1.1,0.0,2.5
+233915,Environmental Engineers,33.8,29.3,20.5,5.2,9.8,0.6,0.4,0.6
+233916,Naval Architects,21.8,12.3,15.3,12.3,27.3,7.3,1.0,2.3
+233999,Engineering Professionals (not covered elsewhere),35.0,30.3,15.4,6.9,8.8,1.1,0.1,2.6
+234111,Agricultural Consultants,26.8,23.2,21.6,9.6,11.8,4.6,1.5,1.0
+234112,Agricultural Scientists,23.7,21.6,22.8,11.3,12.7,5.1,0.8,2.0
+234113,Foresters,17.1,33.6,14.6,7.0,12.2,13.9,0.9,1.2
+234211,Chemists,29.6,31.5,16.8,4.9,13.0,1.5,0.8,1.9
+234212,Food Technologists,34.7,41.8,14.0,2.7,4.6,1.2,0.0,1.1
+234213,Wine Makers,15.7,27.0,3.2,37.9,12.0,3.8,0.0,0.6
+234311,Conservation Officers,30.3,20.6,20.9,4.7,16.3,2.7,1.8,2.5
+234312,Environmental Consultants,27.5,20.4,20.1,5.3,21.0,2.4,1.7,1.7
+234313,Environmental Research Scientists,32.3,17.2,22.6,6.0,14.2,3.0,1.4,3.2
+234314,Park Rangers,12.5,21.3,28.7,5.8,12.0,3.4,14.6,1.7
+234399,Other Environmental Scientists,30.5,26.8,19.9,6.1,11.6,3.7,0.7,1.4
+234411,Geologists,12.0,8.1,17.8,5.5,52.9,2.2,0.6,1.0
+234412,Geophysicists,9.9,7.6,15.7,9.0,47.6,4.5,0.5,5.2
+234413,Hydrogeologists,14.2,17.5,18.3,8.8,34.9,1.4,1.2,3.9
+234511,Biologists,15.3,31.0,26.7,6.3,8.0,3.7,0.0,6.0
+234513,Biochemists,18.7,42.5,23.1,8.2,5.2,0.0,0.0,6.0
+234514,Biotechnologists,26.6,33.1,21.2,7.2,7.6,1.8,0.0,3.9
+234515,Botanists,17.9,19.1,23.4,7.2,21.7,3.5,3.3,3.7
+234516,Marine Biologists,13.5,8.9,33.3,7.0,23.5,12.6,2.0,1.1
+234517,Microbiologists,28.3,38.1,19.1,4.3,5.5,2.1,0.7,2.5
+234518,Zoologists,19.5,23.4,23.1,5.9,18.8,3.6,1.6,3.1
+234599,Other Life Scientists,30.3,33.7,15.6,6.4,6.6,1.2,1.3,4.6
+234911,Conservators,35.1,22.8,9.3,7.0,6.8,2.5,1.3,15.7
+234912,Metallurgists,13.4,8.7,14.8,9.8,49.4,2.4,0.6,0.0
+234913,Meteorologists,17.7,44.3,15.0,3.2,6.9,7.0,1.4,4.6
+234914,Physicists (including Astronomers),30.7,26.0,13.4,12.7,9.5,1.3,0.0,5.6
+234915,Exercise Physiologists,32.9,20.5,25.5,6.4,9.8,2.0,0.4,2.6
+234999,Natural and Physical Science Professionals (not covered elsewhere),22.2,30.5,21.1,5.8,14.9,1.6,0.6,3.7
+241511,Special Needs Teachers,34.1,20.6,25.6,6.2,8.6,1.9,1.4,1.6
+241512,Teachers of the Hearing Impaired,35.3,28.9,14.2,4.8,14.6,1.6,0.0,1.3
+241513,Teachers of the Sight Impaired,62.7,7.6,9.2,9.2,4.3,3.2,0.0,1.6
+241599,Other Special Education Teachers,29.9,9.8,33.9,7.2,10.7,1.5,6.3,1.2
+242111,University Lecturers,30.9,28.7,17.7,6.9,8.9,2.1,0.8,3.9
+242112,University Tutors,26.7,31.9,20.5,6.9,6.9,2.4,0.2,4.4
+249111,Education Advisers,30.9,29.0,19.3,6.8,7.9,2.1,1.3,2.7
+249112,Education Reviewers,30.9,29.6,15.7,8.3,10.0,2.9,1.2,1.4
+249211,Art Teachers (Private Tuition),34.4,27.9,15.6,6.6,10.6,1.7,0.6,2.3
+249212,Dance Teachers (Private Tuition),34.5,23.3,19.8,6.6,11.7,1.5,0.4,2.1
+249213,Drama Teachers (Private Tuition),43.4,19.5,20.8,3.8,7.3,1.8,1.3,2.2
+249214,Music Teachers (Private Tuition),36.5,24.9,16.3,6.6,10.4,2.0,0.4,2.8
+249299,Other Private Tutors and Teachers,37.2,30.1,13.9,4.8,9.4,1.0,0.7,2.9
+251111,Dietitians,31.2,25.5,22.7,6.8,8.9,1.9,1.1,1.9
+251112,Nutritionists,36.9,21.7,22.6,5.1,9.6,1.3,0.7,2.0
+251211,Medical Diagnostic Radiographers,33.0,23.5,20.9,8.2,9.8,2.2,0.9,1.5
+251212,Medical Radiation Therapists,31.2,25.7,22.8,6.2,8.3,3.2,0.5,1.9
+251213,Nuclear Medicine Technologists,34.3,29.9,18.1,5.8,7.3,1.6,0.0,1.9
+251214,Sonographers,32.6,21.3,23.6,8.0,10.1,1.8,0.8,1.8
+251311,Environmental Health Officers,25.9,25.5,22.6,8.7,10.8,2.9,1.2,2.3
+251312,Occupational Health and Safety Advisers,25.0,22.8,22.8,6.9,17.6,1.9,1.1,1.9
+251411,Optometrists,32.4,26.3,21.5,6.8,8.4,2.0,0.7,1.8
+251412,Orthoptists,48.1,38.2,7.0,2.1,2.7,1.0,0.0,1.4
+251511,Hospital Pharmacists,23.3,28.6,24.1,6.9,10.8,3.3,1.0,1.9
+251512,Industrial Pharmacists,22.1,50.3,15.8,4.2,4.7,0.6,0.0,2.3
+251513,Retail Pharmacists,29.7,26.3,20.3,7.3,11.5,2.4,0.7,1.9
+251911,Health Promotion Officers,29.2,32.8,14.9,6.2,10.9,2.0,2.1,1.9
+251912,Orthotists and Prosthetists,25.4,36.8,16.1,7.6,8.2,3.4,0.5,1.8
+251999,Genetic Counsellors (and Other Health Professionals not covered elsewhere),31.4,45.9,6.3,6.2,6.5,1.3,0.4,2.1
+252111,Chiropractors,33.2,26.3,16.7,7.1,13.8,1.2,0.4,1.2
+252112,Osteopaths,20.0,62.7,9.7,1.7,2.5,2.0,0.3,1.6
+252211,Acupuncturists,33.2,21.2,30.0,6.0,7.0,1.4,0.2,1.5
+252212,Homoeopaths,29.2,24.2,27.5,7.5,13.3,0.0,0.0,2.5
+252213,Naturopaths,28.9,25.1,24.3,6.3,11.0,2.5,0.5,1.1
+252214,Chinese Medicine Practitioners,37.8,40.3,10.7,2.8,5.8,0.6,0.3,2.1
+252299,"Music, Dance, Drama, Play, Hypnotic, and Related Therapists",30.0,29.6,21.3,7.8,7.8,1.4,1.0,0.9
+252311,Dental Specialists (including Orthodontists),30.9,25.8,20.3,8.8,10.9,1.4,0.2,2.0
+252312,Dentists,31.4,25.4,21.5,6.9,10.8,1.6,0.6,1.8
+252711,Audiologists,27.3,29.0,20.8,7.1,10.7,2.2,1.1,1.8
+252712,Speech Pathologists,30.5,26.3,20.5,8.4,10.8,1.6,0.7,1.2
+253111,General Practitioners,30.8,25.2,21.5,7.3,10.0,2.2,1.0,2.0
+253112,Resident Medical Officers,29.4,25.6,20.3,6.5,12.2,2.3,1.8,1.8
+253311,Specialist Physicians (General Medicine),27.5,25.6,22.2,9.8,8.2,3.0,2.4,2.1
+253312,Cardiologists,35.5,25.5,19.8,7.5,8.5,1.7,0.9,1.6
+253313,Clinical Haematologists,24.5,32.6,20.7,9.8,9.2,0.0,0.0,2.2
+253314,Medical Oncologists,31.3,35.2,15.3,6.9,7.2,2.9,0.9,1.2
+253315,Endocrinologists,37.6,27.8,18.6,2.9,5.9,2.6,0.0,4.6
+253316,Gastroenterologists,30.8,27.1,22.5,7.6,8.4,2.8,0.0,1.9
+253317,Intensive Care Specialists,27.0,27.7,21.9,7.8,8.3,2.3,1.2,3.5
+253318,Neurologists,34.0,31.0,13.8,8.4,8.5,2.1,0.0,1.2
+253321,Paediatricians,30.2,26.4,20.3,6.9,11.1,2.1,1.5,1.5
+253322,Renal Medicine Specialists,34.4,31.1,16.4,4.5,6.1,1.6,4.5,1.2
+253323,Rheumatologists,31.7,28.9,15.7,9.2,10.8,1.6,0.0,2.4
+253324,Thoracic Medicine Specialists,29.4,24.6,21.1,9.1,9.7,1.1,0.9,1.7
+253399,Other Specialist Physicians,30.6,29.1,16.7,8.2,8.8,2.5,1.0,2.7
+253511,Surgeons (General),30.5,25.9,22.8,6.4,8.0,2.5,1.5,2.2
+253512,Cardiothoracic Surgeons,36.8,22.2,19.3,8.8,5.3,1.8,0.0,4.7
+253513,Neurosurgeons,33.5,27.5,16.5,6.0,8.8,2.1,1.1,2.1
+253514,Orthopaedic Surgeons,31.8,22.1,23.4,8.2,10.9,1.7,0.6,1.8
+253515,"Ear, Nose and Throat Specialists",35.9,23.0,20.4,7.3,8.7,3.1,0.0,0.0
+253516,Paediatric Surgeons,30.4,26.4,18.4,8.0,10.4,3.2,0.0,0.0
+253517,Plastic and Reconstructive Surgeons,27.2,32.3,18.6,9.5,8.9,3.2,0.8,1.3
+253518,Urologists,29.8,26.4,22.5,6.8,9.0,1.7,0.0,1.9
+253521,Vascular Surgeons,33.3,25.1,23.0,8.2,10.9,2.7,1.6,0.0
+253911,Dermatologists,33.3,26.0,20.8,7.7,9.1,0.6,0.6,1.6
+253912,Emergency Medicine Specialists,28.4,22.5,24.9,6.3,10.9,2.7,2.2,1.8
+253913,Obstetricians and Gynaecologists,29.5,28.2,19.5,6.8,10.2,2.5,1.2,1.8
+253914,Eye Specialists,34.2,28.6,18.3,7.6,8.2,2.3,0.3,1.1
+253915,Pathologists,39.1,23.7,18.6,5.7,8.2,2.0,0.5,2.2
+253917,Diagnostic and Interventional Radiologists,30.2,25.6,20.6,8.1,11.2,1.8,0.2,2.1
+253918,Radiation Oncologists,36.3,20.6,26.8,4.3,5.8,1.2,1.5,2.8
+253999,Medical Practitioners (not covered elsewhere),32.6,24.0,20.2,5.6,12.1,2.0,0.7,2.3
+254211,Nurse Educators,33.4,24.9,20.5,6.0,10.0,2.7,1.2,1.3
+254212,Nurse Researchers,22.1,35.3,19.9,8.2,9.9,1.7,1.7,1.0
+254411,Nurse Practitioners,28.3,26.3,22.8,7.8,9.6,2.1,0.6,2.1
+254412,Registered Nurses (Aged Care),41.3,23.1,19.3,7.0,6.3,1.7,0.2,1.1
+254413,Registered Nurses (Child and Family Health),26.5,32.0,16.6,6.0,12.1,2.6,2.1,2.1
+254414,Registered Nurses (Community Health),28.8,27.2,19.9,7.5,10.7,2.7,1.6,1.6
+254415,Registered Nurses (Critical Care and Emergency),28.4,25.4,22.4,8.3,9.9,2.6,1.3,1.7
+254416,Registered Nurses (Developmental Disability),,,,,,,,
+254417,Registered Nurses (Disability and Rehabilitation),34.9,26.7,15.8,8.5,9.9,1.9,0.9,1.3
+254418,Registered Nurses (Medical),26.6,24.9,24.4,7.3,10.2,2.8,1.7,2.1
+254421,Registered Nurses (Medical Practice),28.7,24.5,23.0,8.2,10.6,2.4,0.7,1.8
+254422,Registered Nurses (Mental Health),29.3,27.3,19.5,6.9,12.4,2.2,0.8,1.6
+254423,Registered Nurses (Perioperative),29.2,24.7,23.0,8.4,9.6,2.5,0.8,1.8
+254424,Registered Nurses (Surgical),27.0,24.9,22.9,7.5,12.2,2.8,0.9,1.8
+254425,Registered Nurses (Paediatrics),27.9,24.8,22.3,6.7,12.8,2.5,1.4,1.3
+254499,Registered Nurses (not covered elsewhere),25.9,28.8,21.2,8.3,10.2,2.3,1.7,1.7
+261111,ICT Business Analysts,40.7,31.4,11.7,4.1,6.2,0.7,0.3,4.9
+261112,Systems Analysts,36.0,32.1,13.5,5.1,6.4,0.6,0.5,5.8
+261211,Game and Multimedia Developers,26.1,38.0,19.5,6.8,5.7,1.3,0.7,3.3
+261212,Web Developers,32.1,31.8,18.9,5.4,6.6,1.8,0.4,3.0
+261311,Analyst Programmers,35.0,35.5,10.9,6.6,5.8,0.9,0.4,4.8
+261312,Developer Programmers,34.2,31.1,15.6,4.9,7.2,1.1,0.3,5.5
+261313,Software Engineers,42.2,31.7,12.2,4.6,5.4,0.6,0.1,3.2
+261314,Software Testers,35.1,34.5,13.4,4.4,6.2,0.4,0.2,5.8
+261399,Other Software and Applications Programmers,40.9,36.2,11.3,2.9,4.5,1.3,0.2,3.4
+262111,Database Administrators,33.9,28.1,15.3,5.6,10.0,1.1,0.6,5.4
+262112,ICT Security Specialists,34.7,29.5,11.4,5.2,6.9,0.7,0.3,11.4
+262113,Systems Administrators,30.6,26.3,18.0,6.2,8.8,2.0,1.0,7.1
+263111,Computer Network and Systems Engineers,36.0,27.8,13.5,6.0,9.1,0.8,0.8,6.0
+263112,Network Administrators,32.0,31.0,16.2,7.2,8.1,1.5,0.4,3.7
+263113,Network Analysts,40.7,30.9,11.6,4.1,6.3,1.0,0.5,4.8
+263211,ICT Quality Assurance Engineers,36.1,36.7,12.6,4.1,4.4,1.0,0.3,4.8
+263212,ICT Support Engineers,44.9,29.0,11.5,5.3,5.6,0.7,0.4,2.7
+263213,ICT Systems Test Engineers,32.8,31.0,12.7,8.2,4.9,0.4,0.2,9.8
+263299,Other ICT Support and Test Engineers,43.4,34.8,10.9,2.7,5.0,0.4,0.0,2.9
+263311,Telecommunications Engineers,38.4,27.7,13.5,4.6,10.1,0.8,0.9,4.1
+263312,Telecommunications Network Engineers,37.4,35.8,12.4,3.4,6.3,1.3,0.3,3.2
+271211,Judges,31.3,27.5,16.6,8.0,10.1,1.8,3.2,0.9
+271212,Magistrates,28.3,27.0,20.2,9.2,12.1,3.1,0.0,1.7
+271213,Tribunal Members,30.8,29.4,14.0,8.2,8.5,3.0,0.7,4.4
+271214,Intellectual Property Lawyers,35.5,36.4,14.1,5.3,6.7,0.5,0.0,1.6
+271299,Judicial and Other Legal Professionals (not covered elsewhere),32.0,29.6,16.7,4.6,8.2,1.7,0.7,6.6
+272111,Careers Counsellors,25.6,36.7,18.4,5.8,8.6,1.7,0.8,1.9
+272112,Drug and Alcohol Counsellors,22.2,34.1,16.0,5.4,14.1,2.8,3.1,2.4
+272113,Family and Marriage Counsellors,30.6,25.5,21.8,6.2,10.7,2.2,0.9,1.9
+272114,Rehabilitation Counsellors,42.6,18.7,15.0,8.8,8.3,2.8,1.2,2.8
+272115,Student Counsellors,32.0,28.4,17.2,10.2,6.1,2.1,2.0,1.6
+272199,Other Counsellors and Life Coaches,27.9,29.6,20.3,6.7,10.3,2.0,0.7,2.5
+272311,Clinical Psychologists,32.5,27.6,19.4,5.5,10.3,1.8,0.6,2.3
+272312,Educational Psychologists,35.0,17.1,26.0,2.2,14.4,2.5,0.2,2.5
+272313,Organisational Psychologists,29.4,26.3,20.8,6.4,11.9,0.7,0.0,4.9
+272314,Psychotherapists,35.1,31.5,14.5,6.7,7.8,1.6,0.6,2.2
+272399,Other Psychologists,29.4,31.9,18.1,4.2,11.2,1.5,0.2,3.1
+272411,Historians,29.7,29.1,10.5,6.3,9.4,3.7,0.6,11.7
+272412,Interpreters,29.0,32.1,16.9,8.2,8.9,2.0,1.9,1.1
+272413,Translators,31.8,30.3,17.4,6.5,7.5,1.3,2.0,3.4
+272414,Archaeologists,34.3,35.1,9.8,3.8,11.0,1.6,0.5,3.8
+272499,Other Social Professionals,29.4,27.2,15.3,4.9,13.4,2.3,2.8,4.8
+272611,Community Arts Workers,18.9,31.1,14.5,9.2,12.5,4.7,6.9,1.0
+272612,Recreation Officers,30.6,24.5,19.4,6.1,11.6,2.0,3.1,2.7
+272613,Welfare Workers,30.3,26.7,20.0,7.1,10.1,2.2,1.8,1.9
+311211,Anaesthetic Technicians,8.4,7.3,34.0,0.0,50.7,0.0,0.0,0.0
+311212,Cardiac Technicians,25.7,32.9,18.2,9.8,10.1,1.6,0.9,0.7
+311213,Medical Laboratory Technicians,36.9,19.3,17.1,10.5,12.2,1.6,0.6,1.8
+311214,Operating Theatre Technicians,7.3,74.5,8.8,3.7,2.2,2.3,0.9,0.4
+311215,Pharmacy Technicians,28.9,31.2,18.8,6.1,9.8,2.5,1.0,1.5
+311216,Pathology Collectors,31.2,25.7,21.2,6.7,11.9,1.5,0.5,1.3
+311299,Other Medical Technicians,29.4,17.6,24.0,8.8,13.6,3.5,0.8,2.0
+311311,Fisheries Officers,19.4,17.2,20.8,9.2,19.9,5.3,3.1,3.9
+311312,Meat Inspectors,21.1,31.4,24.5,7.9,11.5,1.4,0.0,0.0
+311313,Quarantine Officers,25.2,21.4,19.4,7.9,16.4,6.7,1.7,1.0
+311399,Other Primary Products Inspectors,18.7,33.7,17.5,19.4,6.6,1.0,1.0,2.4
+311411,Chemistry Technicians,24.5,32.0,18.5,8.9,12.3,2.3,0.3,0.9
+311412,Earth Science Technicians,17.8,12.4,19.4,6.4,38.8,1.7,2.3,1.2
+311413,Life Science Technicians,25.8,27.0,21.4,6.9,11.9,2.8,1.1,3.0
+311414,School Laboratory Technicians,22.6,27.6,21.2,7.6,15.1,3.2,0.9,1.7
+311415,Hydrographers,29.5,15.6,27.2,6.9,10.0,3.8,3.1,2.8
+311499,Other Science Technicians,25.6,25.2,18.8,7.3,18.2,2.0,1.2,2.3
+312111,Architectural Draftspersons,31.6,30.2,18.1,5.1,10.8,2.2,0.5,1.5
+312112,Building Associates,30.3,26.2,21.4,6.7,11.5,1.4,0.8,1.7
+312113,Building Inspectors,31.8,30.1,19.6,4.7,9.4,1.9,0.9,1.5
+312114,Construction Estimators,28.2,28.5,22.7,6.9,11.0,1.4,0.4,1.1
+312115,Plumbing Inspectors,16.0,14.6,56.6,2.0,4.0,4.6,0.0,1.1
+312116,Surveying and Spatial Science Technicians,35.1,19.5,21.0,7.0,11.0,2.3,1.2,3.8
+312199,"Other Architectural, Building and Surveying Technicians",30.4,37.9,16.7,6.7,5.2,1.8,0.0,1.2
+312211,Civil Engineering Draftspersons,25.2,19.6,31.4,6.4,13.8,2.0,0.4,1.4
+312212,Civil Engineering Technicians,23.4,19.1,31.6,7.0,14.4,2.2,1.4,1.1
+312311,Electrical Engineering Draftspersons,20.9,20.1,28.1,7.3,20.3,2.3,0.7,0.9
+312312,Electrical Engineering Technicians,24.9,21.0,22.3,7.5,19.2,3.1,1.2,1.0
+312411,Electronic Engineering Draftspersons,27.9,25.0,25.7,10.7,8.6,0.0,0.0,2.1
+312412,Electronic Engineering Technicians,30.5,19.8,19.8,9.6,12.6,1.8,2.3,3.4
+312511,Mechanical Engineering Draftspersons,20.8,24.7,23.4,6.2,21.9,1.8,0.5,1.0
+312512,Mechanical Engineering Technicians,22.9,21.7,20.2,8.1,22.6,2.5,1.1,0.9
+312911,Maintenance Planners,17.7,11.0,25.2,5.6,37.0,1.6,1.5,0.4
+312912,Metallurgical and Materials Technicians,12.3,8.3,20.0,6.6,49.9,1.6,1.2,0.1
+312913,Mine Deputies,19.7,3.5,28.5,5.7,40.0,1.4,1.2,0.1
+312999,Building and Engineering Technicians (not covered elsewhere),26.0,19.5,22.7,7.4,20.8,1.8,1.1,0.5
+313111,Hardware Technicians,29.4,26.4,20.6,8.1,8.5,2.2,1.1,4.2
+313112,ICT Customer Support Officers,33.3,27.5,17.3,6.5,8.8,1.9,0.8,3.9
+313113,Web Administrators,37.3,30.5,15.7,4.4,5.5,1.7,0.5,4.8
+313199,Other ICT Support Technicians,35.0,26.7,16.8,5.6,5.7,2.3,1.7,6.1
+313211,Radiocommunications Technicians,26.2,18.6,24.1,7.0,17.1,1.0,1.5,3.9
+313212,Telecommunications Field Engineers,34.6,27.7,17.3,6.8,8.1,1.2,0.5,2.5
+313213,Telecommunications Network Planners,40.9,29.8,15.2,6.1,5.6,0.4,0.6,1.5
+313214,Telecommunications Technical Officers and Technologists,26.7,31.1,19.5,6.0,9.0,3.6,0.4,2.6
+321211,Motor Mechanics (General),29.4,25.2,21.5,7.2,12.2,2.1,1.2,1.2
+321212,Diesel Motor Mechanics,25.4,29.0,20.5,11.0,9.2,2.9,1.2,0.6
+321213,Motorcycle Mechanics,31.6,22.4,25.8,7.1,8.4,2.1,1.5,0.8
+321214,Small Engine Mechanics,25.9,24.5,28.2,5.6,9.0,4.4,1.6,0.9
+322111,Blacksmiths,29.6,24.7,23.5,11.1,9.5,1.6,0.0,0.0
+322112,Electroplaters,27.4,24.6,19.4,9.6,17.7,0.6,0.9,0.0
+322113,Farriers,35.2,26.1,19.4,6.0,9.8,2.1,0.0,0.6
+322114,Metal Casting Trades Workers,25.4,31.4,18.9,10.1,13.0,3.6,0.0,0.0
+322115,Metal Polishers,17.4,42.3,22.3,5.2,7.5,0.0,0.0,1.4
+322311,Metal Fabricators,23.3,18.0,27.2,7.6,19.9,2.5,1.0,0.4
+322312,Pressure Welders,38.7,26.9,17.6,6.7,10.9,0.0,0.0,0.0
+322313,Welders (First Class),24.3,30.4,16.9,7.5,16.5,3.2,0.7,0.5
+323111,Aircraft Maintenance Engineers (Avionics),38.9,7.2,33.6,8.5,4.4,0.1,5.8,1.6
+323112,Aircraft Maintenance Engineers (Mechanical),40.1,5.9,37.9,6.9,2.4,0.2,5.4,0.8
+323113,Aircraft Maintenance Engineers (Structures),30.7,20.9,33.1,5.9,4.3,0.0,4.3,0.0
+323211,Fitters (General),25.7,12.1,26.2,5.6,27.1,2.0,1.1,0.2
+323212,Fitter and Turners,12.6,32.2,38.4,9.6,3.5,2.5,0.9,0.2
+323213,Fitter-Welders,38.6,22.4,20.7,5.2,7.9,4.5,0.4,0.5
+323214,Metal Machinists (First Class),20.6,25.4,19.6,8.9,23.0,1.7,0.2,0.4
+323215,"Textile, Clothing and Footwear Mechanics",19.1,39.8,26.3,5.6,6.0,1.6,0.0,1.2
+323299,Other Metal Fitters and Machinists,23.7,25.3,15.4,13.6,17.2,3.6,0.7,0.5
+323311,Engravers,36.8,19.5,19.0,8.8,12.9,1.8,0.9,0.0
+323312,Gunsmiths,25.4,19.7,29.5,6.4,6.9,2.3,5.2,1.7
+323313,Locksmiths,31.0,25.6,20.1,7.4,10.2,2.2,1.2,2.0
+323314,Precision Instrument Makers and Repairers,33.7,28.2,18.6,5.9,10.6,2.4,0.4,0.6
+323315,Saw Doctors,25.5,25.5,18.6,11.4,11.0,8.3,0.0,0.0
+323316,Watch and Clock Makers and Repairers,33.4,29.0,18.4,6.5,10.7,1.5,0.0,1.9
+323411,Engineering Patternmakers,27.6,33.3,20.7,9.8,9.2,4.6,0.0,0.0
+323412,Toolmakers,27.6,38.4,14.2,12.4,6.3,0.7,0.0,0.1
+324211,Vehicle Body Builders,22.3,33.8,26.2,4.4,12.2,0.9,0.1,0.2
+324212,Vehicle Trimmers,25.8,23.4,27.4,6.9,14.3,0.7,1.3,0.2
+331111,Bricklayers,26.4,30.4,13.2,6.7,19.3,2.2,0.5,1.4
+331112,Stonemasons,30.1,28.4,17.3,6.9,12.8,1.7,0.4,2.3
+331212,Carpenters,30.8,30.9,20.6,5.4,7.6,2.3,0.7,1.7
+331213,Joiners,45.0,27.6,10.8,3.9,1.8,7.8,0.2,2.6
+333211,Fibrous Plasterers,22.4,28.3,23.1,8.3,12.7,3.2,0.5,1.4
+333212,Solid Plasterers,21.7,38.3,20.8,8.3,7.9,1.1,0.5,1.4
+334111,Plumbers (General),31.6,32.0,17.6,6.3,8.2,1.9,0.9,1.6
+334112,Airconditioning and Mechanical Services Plumbers,10.1,77.5,5.8,1.9,1.8,1.4,0.1,1.2
+334113,Drainers,24.5,33.7,24.7,3.6,10.1,0.9,0.7,1.9
+334114,Gasfitters,18.7,31.4,17.2,10.4,18.1,1.6,0.8,1.5
+334115,Roof Plumbers,26.7,33.0,16.7,8.3,11.1,2.4,0.3,1.3
+341111,Electricians (General),28.7,23.6,22.9,6.8,13.4,2.1,1.1,1.5
+341112,Electricians (Special Class),14.0,43.9,33.3,14.0,5.3,0.0,7.0,0.0
+341113,Lift Mechanics,41.3,26.4,17.7,3.7,7.8,1.0,0.3,1.5
+342211,Electrical Linesworkers,25.4,24.5,24.0,9.4,11.8,2.9,0.8,0.8
+342212,Technical Cable Jointers,32.2,31.3,18.5,1.4,14.4,0.9,0.7,0.7
+342311,Business Machine Mechanics,34.0,25.2,20.9,6.3,9.0,2.2,1.0,1.4
+342312,Communications Operators,26.4,14.9,25.3,2.4,15.1,0.9,6.9,7.4
+342313,Electronic Equipment Trades Workers,31.3,25.6,22.2,6.2,10.1,1.6,0.9,1.9
+342314,Electronic Instrument Trades Workers (General),31.7,20.5,13.9,4.9,22.8,0.8,2.9,2.0
+342315,Electronic Instrument Trades Workers (Special Class),24.3,32.8,19.8,4.5,11.3,2.8,2.3,0.0
+342411,Cablers (Data and Telecommunications),31.8,24.2,20.2,9.8,8.0,1.5,0.6,3.6
+342412,Telecommunications Cable Jointers,33.4,25.4,20.5,7.2,10.8,1.6,0.0,1.3
+342413,Telecommunications Linesworkers,31.8,25.1,22.6,6.9,10.0,1.5,1.2,1.2
+342414,Telecommunications Technicians,29.0,23.7,22.1,7.3,13.1,1.8,1.3,1.8
+351111,Bakers,29.2,27.4,18.8,9.1,10.2,3.2,0.6,1.4
+351112,Pastrycooks,32.3,32.0,15.6,5.5,10.8,1.6,0.5,1.5
+361111,Dog Handlers and Trainers,26.7,26.0,23.4,7.6,10.9,2.4,0.4,1.9
+361112,Horse Trainers,32.5,29.7,19.8,5.4,9.1,2.1,0.4,1.1
+361113,Pet Groomers,26.5,25.8,23.4,7.8,12.3,2.2,0.4,1.9
+361114,Zookeepers,30.6,21.0,25.8,8.3,5.1,3.5,2.6,2.3
+361115,Kennel Hands,29.5,23.4,21.3,6.9,13.5,2.8,0.8,2.1
+361199,Other Animal Attendants and Trainers,28.9,26.8,21.0,7.4,9.5,2.8,1.1,2.3
+362211,Gardeners (General),24.2,28.8,17.0,9.7,14.1,3.2,1.0,2.0
+362212,Arborists,29.4,31.9,18.4,8.8,6.8,2.7,0.6,1.5
+362213,Landscape Gardeners,31.3,28.6,19.9,7.1,8.6,1.6,0.7,2.2
+392111,Print Finishers,27.9,30.9,17.6,10.0,10.3,1.6,0.3,1.3
+392112,Screen Printers,28.1,30.1,23.9,6.9,8.6,1.0,1.1,0.5
+392311,Printing Machinists,27.5,37.8,15.1,10.5,7.0,1.5,0.3,0.4
+392312,Small Offset Printers,27.1,36.4,17.8,7.1,5.6,3.3,0.0,1.1
+393111,Canvas Goods Fabricators,20.0,14.9,27.8,10.8,21.6,3.5,0.0,0.0
+393112,Leather Goods Makers,33.1,20.7,31.6,6.7,5.6,1.0,0.0,0.0
+393113,Sail Makers,31.8,11.9,26.4,5.5,14.9,3.0,1.5,0.0
+393114,Shoemakers,23.3,25.0,13.6,21.3,12.5,1.9,0.0,1.7
+393211,Apparel Cutters,36.1,31.0,16.3,6.5,8.7,2.0,0.0,0.0
+393212,Clothing Patternmakers,41.9,37.2,10.9,3.5,6.5,0.9,0.0,0.0
+393213,Dressmakers and Tailors,29.6,29.1,18.2,7.3,11.5,2.1,0.8,1.4
+393299,Other Clothing Trades Workers,47.9,26.1,10.3,1.8,4.8,2.4,0.0,3.0
+394211,Furniture Finishers,33.2,25.3,16.7,11.9,11.2,0.9,0.0,0.5
+394212,Picture Framers,29.2,32.1,18.0,5.4,10.0,2.7,0.9,2.0
+394213,Wood Machinists,28.6,23.8,25.2,10.8,6.5,4.8,0.0,0.0
+394214,Wood Turners,20.5,31.3,12.0,7.2,4.8,9.6,0.0,0.0
+394299,Other Wood Machinists and Wood Trades Workers,12.6,18.5,20.5,28.5,4.0,17.9,2.6,0.0
+399111,Boat Builders and Repairers,16.7,14.9,45.4,3.9,14.5,3.6,1.0,0.2
+399112,Shipwrights,38.9,7.7,16.1,9.8,20.0,6.8,0.6,0.0
+399211,Chemical Plant Operators,24.0,27.9,20.0,3.0,23.5,1.0,0.5,0.2
+399212,Gas and Petroleum Operators,9.9,20.9,29.9,7.2,27.3,0.7,3.8,0.1
+399213,Power Generation Plant Operators,27.0,18.7,18.8,6.2,20.8,3.5,5.1,0.3
+399311,Gallery and Museum Technicians,24.5,32.2,13.6,4.4,4.4,8.1,1.1,11.4
+399312,Library Technicians,19.5,30.3,11.2,7.9,22.9,5.1,1.0,2.2
+399511,Broadcast Transmitter Operators,65.7,15.3,8.1,1.9,5.8,0.7,0.0,2.1
+399512,"Camera Operators (Film, Television or Video)",31.6,24.0,22.9,7.0,9.5,2.0,0.6,2.1
+399513,Light Technicians,32.5,29.2,20.0,5.4,8.9,1.6,0.3,0.5
+399514,Make Up Artists,29.8,24.5,23.3,7.5,11.8,0.8,0.6,1.3
+399515,Musical Instrument Makers and Repairers,30.2,32.3,18.1,7.2,7.9,2.5,0.0,2.0
+399516,Sound Technicians,35.7,29.1,15.4,6.3,9.3,1.3,0.5,2.3
+399517,Television Equipment Operators,58.1,19.4,10.8,3.2,4.3,0.0,0.0,0.0
+399599,Other Performing Arts Technicians,35.5,28.7,21.3,4.6,6.7,1.1,0.8,1.5
+399911,Divers,26.2,11.7,19.4,9.2,16.2,15.0,1.9,0.0
+399912,Interior Decorators,34.0,34.1,16.8,6.1,6.0,1.0,0.2,2.2
+399913,Optical Dispensers,29.0,25.0,21.0,8.5,11.9,2.3,0.5,1.9
+399914,Optical Mechanics,25.2,33.2,24.4,10.2,5.2,1.7,0.0,1.2
+399915,Photographer's Assistants,40.0,34.0,12.7,4.9,6.5,0.0,0.0,1.2
+399916,Plastics Technicians,28.7,27.8,25.8,7.7,11.5,0.0,0.0,0.0
+399917,Wool Classers,35.3,25.2,2.8,12.1,17.2,7.1,0.0,0.0
+399918,Fire Protection Equipment Technicians,37.2,19.7,20.4,6.3,12.2,0.9,1.3,1.8
+399999,Technicians and Trades Workers (not covered elsewhere),29.4,24.1,21.3,9.9,10.5,2.4,0.9,1.5
+411111,Ambulance Officers,27.8,29.6,22.9,7.2,7.9,2.6,1.1,1.0
+411112,Intensive Care Ambulance Paramedics,24.3,44.2,12.5,6.6,2.9,5.5,1.0,2.9
+411211,Dental Hygienists,23.4,16.9,14.3,21.7,18.8,1.4,1.0,2.5
+411212,Dental Prosthetists,30.4,27.9,23.2,6.0,7.7,3.9,0.0,0.5
+411213,Dental Technicians,26.4,27.2,21.8,6.9,14.2,2.1,0.3,1.2
+411214,Dental Therapists,23.1,21.7,21.8,11.7,16.8,2.3,1.1,1.3
+411411,Enrolled Nurses,22.8,28.9,21.7,13.2,8.8,2.8,0.6,1.2
+411412,Mothercraft Nurses,30.7,45.7,5.5,3.9,8.7,5.5,0.0,0.0
+411711,Community Workers,28.2,26.1,16.9,9.2,12.3,2.9,2.6,1.7
+411712,Disabilities Services Officers,27.6,28.1,18.3,9.8,11.2,2.3,1.1,1.7
+411713,Family Support Workers,23.5,28.6,21.3,4.9,11.2,3.1,6.2,1.5
+411714,Parole and Probation Officers,45.5,12.3,15.6,5.7,13.2,3.3,3.0,1.3
+411715,Residential Care Officers,20.1,25.4,40.7,3.4,6.3,1.4,1.3,1.1
+411716,Youth Workers,27.0,20.5,25.8,12.3,7.7,2.1,3.2,1.4
+421111,Child Care Workers,31.2,27.4,21.8,6.5,8.1,1.6,1.0,2.4
+421112,Family Day Care Workers,32.6,28.8,20.9,3.6,9.5,2.4,0.9,1.4
+421113,Nannies,30.3,27.2,20.1,5.9,12.6,1.0,0.6,2.5
+421114,Out of School Hours Care Workers,33.6,16.6,24.3,10.1,8.2,1.1,1.0,5.1
+422111,Aboriginal and Torres Strait Islander Education Workers,29.1,4.7,17.2,11.8,22.1,1.3,12.9,1.1
+422112,Integration Aides,19.2,30.6,15.6,5.9,24.2,1.6,1.4,1.6
+422115,Preschool Aides,11.3,42.7,13.1,4.9,21.3,0.6,1.9,4.4
+422116,Teachers' Aides,24.9,20.8,27.5,7.8,12.6,3.9,1.0,1.5
+423311,Hospital orderlies,28.3,26.1,22.2,8.0,10.2,3.3,0.4,1.5
+423312,Nursing Support Workers,49.4,3.8,32.8,1.4,9.5,0.9,0.2,2.0
+423313,Personal Care Assistants,19.8,38.9,12.2,10.5,12.8,3.6,1.2,0.9
+423314,Therapy Aides,23.6,26.3,19.0,8.1,17.9,2.7,0.8,1.6
+423411,Child and Youth Residential Care Assistants,15.3,38.1,21.1,5.0,16.8,1.1,2.4,0.7
+423412,Hostel Parents,21.0,11.8,32.7,7.0,20.8,1.0,3.8,1.5
+423413,Refuge Workers,14.2,15.9,25.3,4.4,29.1,4.1,8.4,1.0
+431111,Bar Attendants,34.5,19.4,21.4,7.2,11.7,2.5,1.1,2.1
+431112,Baristas,28.1,24.4,24.5,5.9,12.2,2.1,0.6,2.2
+431911,Bar Usefuls and Bussers,17.5,15.5,27.4,11.3,23.5,0.6,0.8,1.7
+431912,Doorpersons and Luggage Porters,30.9,19.7,18.5,9.5,16.1,4.6,1.1,0.6
+431999,Hospitality Workers (not covered elsewhere),27.6,25.9,19.2,8.5,14.0,1.8,1.4,1.5
+441211,Emergency Service Workers,18.2,17.5,18.5,6.5,36.0,2.0,1.4,0.4
+441212,Fire Fighters,30.8,28.0,18.3,7.1,8.9,2.9,1.9,2.1
+441311,Detectives,29.1,33.0,16.1,7.0,11.3,1.0,1.3,1.2
+441312,Police Officers,28.2,26.0,20.1,7.7,11.1,2.2,2.4,2.2
+442211,"Alarm, Security and Surveillance Monitors",34.5,30.8,13.6,5.8,10.0,1.4,2.1,1.8
+442212,Armoured Car Escorts,30.4,29.6,18.8,6.7,12.3,0.8,0.6,2.1
+442213,Crowd Controllers,3.6,23.3,27.1,6.5,34.1,2.1,2.8,0.0
+442214,Private Investigators,35.8,27.7,14.6,7.7,9.3,1.6,0.7,2.5
+442215,Retail Loss Prevention Officers,24.2,27.8,24.0,8.3,10.7,1.4,0.9,2.2
+442216,Security Consultants,25.3,21.7,16.9,7.7,9.8,0.4,0.8,17.5
+442217,Security Officers,27.0,25.3,18.9,7.5,13.4,2.0,1.9,3.9
+442299,Other Security Workers,17.8,65.9,5.4,3.7,4.3,0.8,1.8,0.8
+451311,Funeral Directors,34.9,26.0,18.8,8.6,7.8,2.6,0.3,1.4
+451399,Funeral Workers (Other),28.4,27.1,15.9,11.4,12.1,3.5,0.3,1.3
+451411,Gallery and Museum Guides,23.0,19.8,20.7,3.9,10.2,8.6,2.2,10.9
+451412,Tour Guides,20.9,16.0,21.7,7.6,14.4,7.7,8.0,2.8
+451511,Natural Remedy Consultants,20.7,28.6,23.0,7.2,16.4,2.2,0.8,1.2
+451512,Weight Loss Consultants,33.0,28.2,21.0,5.5,10.0,3.6,0.0,1.6
+451513,Herbalists (Western),60.1,11.8,15.7,3.9,5.2,2.0,0.0,0.0
+451611,Tourist Information Officers,26.6,21.7,18.5,7.5,13.8,7.9,1.7,2.0
+451612,Travel Consultants,33.9,23.8,22.9,6.5,9.2,1.8,0.7,1.1
+451711,Flight Attendants,29.7,21.4,24.8,6.9,15.0,0.5,0.7,0.9
+451799,Other Travel Attendants,34.1,9.1,30.4,5.8,9.3,10.1,0.0,0.0
+451811,Civil Celebrants,28.2,26.3,22.5,6.4,12.2,2.7,0.7,1.5
+451812,Hair and Beauty Salon Assistants,27.4,28.5,20.1,6.1,11.2,2.0,0.9,3.1
+451814,Body Artists,19.8,26.6,28.6,9.1,11.8,2.2,0.5,1.3
+451815,First Aid Trainers,21.1,27.7,23.6,7.5,14.0,2.7,0.7,1.9
+451816,Religious Assistants,36.3,23.5,15.2,11.2,8.9,1.5,0.5,2.7
+451899,Personal Service Workers (not covered elsewhere),32.7,28.4,17.5,5.2,12.4,1.4,0.6,1.9
+452211,Bungy Jump Masters,,,,,,,,
+452212,Fishing Guides,8.8,2.7,46.0,3.5,8.0,5.3,24.8,0.0
+452213,Hunting Guides,,,,,,,,
+452214,Mountain and Glacier Guides,,,,,,,,
+452215,Outdoor Adventure Instructors,25.6,31.0,20.3,7.3,10.7,2.2,0.9,1.4
+452216,Trekking Guides,25.0,11.5,25.0,0.0,5.8,25.0,7.7,0.0
+452217,Whitewater Rafting Guides,,,,,,,,
+452299,Other Outdoor Adventure Guides,31.4,20.9,23.1,4.3,12.3,6.0,0.0,0.0
+452311,"Scuba, Snorkelling and Dive instructors",18.3,8.8,48.7,3.1,16.4,2.9,0.0,0.0
+452312,Gymnastics Coaches and Instructors,26.4,29.7,21.3,4.4,10.5,3.3,0.6,3.6
+452313,Horse Riding Coaches and Instructors,32.3,21.7,21.0,6.6,13.4,2.3,0.3,2.5
+452314,Snowsport Instructors,40.8,39.3,7.7,4.1,2.2,1.3,0.0,3.4
+452315,Swimming Coaches and Instructors,25.9,30.4,17.9,7.1,13.4,1.8,0.3,3.2
+452316,Tennis Coaches,30.7,33.2,18.0,6.0,7.6,1.0,0.4,3.1
+452317,Other Sports Coaches and Instructors,28.9,27.9,20.3,6.0,11.7,1.5,0.5,3.0
+452318,Dog and Horse Racing Officials,24.2,32.1,17.8,9.2,12.2,4.1,2.0,0.8
+452321,Sports Development Officers,31.1,22.5,20.5,6.1,13.3,1.5,1.9,3.4
+452322,Sports Umpires,14.6,35.2,13.7,9.4,20.2,2.8,0.8,3.3
+452323,Other Sports Officials,21.1,34.5,21.1,5.6,11.3,0.0,0.0,2.1
+452411,"Footballers (Soccer, Rugby and AFL)",27.9,34.7,17.8,7.4,9.0,0.8,0.0,2.8
+452412,Golfers,38.4,23.0,21.8,4.1,9.7,1.2,0.7,1.8
+452413,Jockeys,28.0,24.2,24.8,7.0,10.9,2.4,1.3,0.9
+452414,Lifeguards,24.7,32.4,20.5,4.1,11.7,1.9,2.0,2.5
+452499,Other Sportspersons,28.8,25.3,21.8,8.0,8.8,4.4,0.8,2.3
+511111,Contract Administrators,27.5,22.3,21.7,6.1,16.0,1.0,1.2,4.1
+511112,Program and Project Administrators,31.0,26.3,18.6,6.6,8.9,1.8,1.4,5.5
+512211,Health Practice Managers,32.8,24.2,21.8,7.0,10.1,2.0,0.6,1.6
+512299,Other Practice Managers,32.6,26.2,20.4,6.6,9.6,2.1,0.6,1.8
+521211,Secretaries (General),40.1,19.8,18.9,6.7,10.7,1.8,0.5,1.6
+521212,Legal Secretaries,42.1,18.9,21.5,6.1,7.5,2.1,0.5,1.3
+532111,Data Entry Operators,28.5,25.7,22.7,7.6,10.4,2.0,0.9,2.2
+532112,Machine Shorthand Reporters,30.4,23.2,22.7,9.5,9.3,2.9,0.4,1.7
+532113,Typists,28.0,23.6,26.4,7.3,10.3,2.8,0.2,1.1
+541111,Call Centre or Contact Centre Team Leaders,27.6,29.0,22.7,8.2,7.7,2.6,0.3,1.7
+541112,Call Centre or Contact Centre Operators,26.7,30.1,21.8,9.6,7.1,2.6,0.5,1.7
+542111,Receptionists (General),28.5,25.4,22.5,7.2,11.7,2.1,1.1,1.6
+542112,Admissions Clerks,22.8,34.0,13.5,6.7,16.9,3.2,1.5,1.3
+542113,Hotel and Motel Receptionists,28.2,19.5,26.5,6.6,11.0,3.6,2.2,2.2
+542114,Medical Receptionists,30.5,27.1,19.7,7.2,11.3,2.0,0.7,1.6
+551111,Accounts Clerks,32.1,26.0,19.8,6.7,10.9,1.7,0.9,1.8
+551112,Cost Clerks,26.2,24.5,22.9,7.3,14.3,1.5,0.5,2.7
+552311,Bookmakers,44.2,26.3,18.8,2.1,2.3,0.0,4.2,1.6
+552312,Insurance Consultants,37.1,25.5,19.5,7.2,7.9,1.3,0.4,1.0
+552313,Money Market Clerks,38.5,33.9,14.1,3.8,7.5,0.9,0.0,1.3
+552314,Statistical Clerks,29.7,22.7,16.4,7.8,10.2,7.0,0.0,13.3
+561111,Betting Agency Counter Clerks,30.8,27.0,14.2,4.5,14.7,1.3,6.7,0.5
+561112,Bookmaker's Clerks,,,,,,,,
+561113,Telephone Betting Clerks,31.4,2.6,8.2,0.0,5.7,0.0,46.9,0.0
+561199,Other Betting Clerks,39.8,19.3,27.6,5.0,2.8,1.7,6.1,0.0
+561211,Couriers,32.7,25.3,19.4,7.9,11.0,1.8,0.5,1.5
+561212,Postal Delivery Officers,33.0,24.9,19.8,6.9,10.3,2.7,0.6,1.7
+561411,Mail Clerks,32.5,33.4,15.8,5.2,7.5,1.3,0.4,3.7
+561412,Postal Sorting Officers,33.4,28.6,17.5,6.3,10.6,1.7,0.7,1.3
+561911,Classified Advertising Clerks,37.5,19.6,25.0,7.1,12.5,4.5,0.0,0.0
+561912,Meter Readers,29.5,22.2,21.3,9.3,13.5,2.7,0.7,1.5
+561913,Parking Inspectors,33.8,27.8,10.5,4.4,14.3,5.9,0.0,2.5
+561999,Clerical and Office Support Workers (not covered elsewhere),27.4,22.8,23.2,8.9,9.2,4.6,2.4,1.5
+591112,Production Clerks,33.6,24.2,20.5,6.2,10.9,1.6,1.0,2.2
+591113,Purchasing Officers,27.9,25.7,21.6,6.3,13.4,1.4,0.8,2.8
+591115,Stock Clerks,29.5,28.6,20.2,6.4,11.8,1.6,0.9,1.0
+591116,Warehouse Administrators,33.1,31.3,18.1,5.3,9.4,1.4,0.6,0.8
+591117,Order Clerks,32.9,28.1,19.2,6.3,11.3,1.2,0.5,0.6
+591211,Despatching and Receiving Clerks,31.2,26.9,20.6,6.4,11.9,1.6,0.8,0.6
+591212,Import-Export Clerks,35.3,32.2,16.5,5.4,9.0,0.9,0.4,0.4
+599111,Conveyancers,29.1,29.2,17.6,8.4,10.7,2.6,0.6,1.8
+599112,Legal Executives,40.9,20.4,22.7,2.8,8.2,0.6,0.4,3.9
+599211,Clerks of Court,19.9,50.6,10.7,7.5,8.2,1.5,0.9,0.7
+599212,Court Bailiffs and Sheriffs,37.8,20.1,7.4,22.0,6.1,1.9,3.1,2.0
+599213,Court Orderlies,33.4,16.8,23.4,5.3,15.9,2.1,2.8,0.6
+599214,Law Clerks,27.3,36.5,18.6,4.6,8.0,1.9,0.5,2.7
+599215,Trust Officers,19.8,24.2,28.9,9.1,14.4,1.6,0.7,1.5
+599511,Customs Officers,31.7,29.5,16.3,4.9,11.8,0.8,1.4,3.6
+599512,Immigration Officers,29.8,22.0,17.0,7.9,13.0,2.4,2.6,4.9
+599513,Motor Vehicle Licence Examiners,31.4,23.7,26.3,2.2,12.8,1.6,1.1,1.1
+599514,Noxious Weeds and Pest Inspectors,31.0,14.2,23.7,12.1,9.5,3.9,1.8,2.7
+599515,Social Security Assessors,30.5,21.1,22.0,8.4,9.0,4.5,1.3,3.3
+599516,Taxation Inspectors,33.0,28.6,16.6,7.9,10.3,1.9,0.2,1.2
+599517,Train Examiners,9.0,43.1,4.2,2.1,38.2,0.0,0.0,2.1
+599518,Transport Operations Inspectors,30.5,46.6,11.3,3.4,6.6,0.0,0.2,1.1
+599521,Water Inspectors,40.7,18.2,15.8,6.0,13.0,0.0,0.0,3.2
+599599,Other Inspectors and Regulatory Officers,29.2,25.9,20.1,6.0,10.9,2.1,1.8,3.8
+599611,Insurance Investigators,35.4,22.3,24.5,4.7,12.6,0.7,0.7,0.0
+599612,Insurance Loss Adjusters,35.6,26.0,21.0,6.6,8.1,1.4,0.3,1.1
+599613,Insurance Risk Surveyors,47.8,27.7,14.6,3.1,5.6,0.6,0.6,0.6
+599912,"Production Assistants (Film, Television, Radio or Stage)",48.1,26.1,14.8,5.5,3.8,0.7,0.5,1.0
+599913,Proof Readers,30.5,33.5,19.9,7.0,6.3,2.6,0.0,1.1
+599914,Radio Despatchers,25.4,28.2,25.4,6.7,7.3,3.3,2.2,1.5
+599915,Clinical Coders,30.8,15.1,26.8,9.6,13.5,2.1,0.9,0.8
+599916,Facilities Administrators,26.8,25.5,23.1,7.1,11.2,2.4,1.1,3.3
+599999,Clerical and Administrative Workers (not covered elsewhere),34.5,26.7,18.1,5.8,8.4,2.1,0.7,3.6
+611111,Auctioneers,38.4,20.8,20.3,9.3,6.7,2.1,1.1,1.6
+611112,Stock and Station Agents,35.4,26.0,15.2,11.1,8.8,2.7,0.5,0.1
+611311,Sales Representatives (Building and Plumbing Supplies),30.7,27.4,22.2,6.4,9.3,2.2,0.5,1.3
+611312,Sales Representatives (Business Services),38.2,28.3,18.1,5.3,7.8,1.2,0.4,0.8
+611313,Sales Representatives (Motor Vehicle Parts and Accessories),29.4,27.8,23.0,7.2,10.0,1.8,0.6,0.5
+611314,Sales Representatives (Personal and Household Goods),33.0,29.6,18.1,7.2,9.1,1.7,0.4,0.9
+611399,Other Sales Representatives,34.4,28.7,18.5,5.5,10.6,1.1,0.4,0.9
+612111,Business Brokers,26.4,30.5,25.3,5.8,8.9,0.5,0.9,1.5
+612112,Property Managers,32.7,22.9,24.5,5.8,10.0,1.4,0.8,1.8
+612113,Real Estate Agency Principals,34.9,22.9,24.2,4.8,10.0,1.2,0.6,1.4
+612114,Real Estate Agents,36.1,26.1,23.6,4.1,6.8,1.3,0.4,1.6
+612115,Real Estate Representatives,28.4,25.3,23.3,6.2,12.5,2.5,0.4,1.3
+621311,Motor Vehicle and Caravan Salespersons,28.6,26.0,23.6,7.4,10.4,2.0,0.7,1.4
+621312,Motor Vehicle Parts Interpreters,27.5,22.7,25.4,8.0,12.1,2.1,1.1,1.0
+621711,Cash Van Salespersons,29.8,19.0,27.1,6.8,11.4,3.8,1.1,0.7
+621712,Door-to-door Salespersons,30.4,27.7,21.3,5.6,10.8,1.8,0.3,2.0
+621713,Street Vendors,23.8,17.2,33.3,5.4,9.9,3.6,5.2,1.2
+621911,Materials Recyclers,26.0,25.1,21.8,11.4,11.8,1.9,1.0,1.3
+621912,Rental Salespersons,27.7,23.6,25.3,6.6,9.5,4.1,1.6,1.8
+621999,Sales Assistants and Salespersons (not covered elsewhere),29.2,25.2,22.4,9.3,10.3,2.9,0.3,0.4
+631111,Checkout Operators,27.0,25.8,22.1,8.8,12.0,2.0,0.8,1.4
+631112,Cashiers,28.0,26.1,21.8,4.5,15.1,1.3,1.7,1.3
+639111,Models,37.3,29.5,26.4,2.9,3.1,0.7,0.0,0.7
+639112,Sales Demonstrators,29.0,26.4,20.8,8.9,11.1,1.9,0.6,1.4
+639211,Retail Buyers,35.0,44.5,11.0,3.4,5.2,0.7,0.0,0.3
+639212,Wool Buyers,25.4,34.2,0.0,12.4,21.2,5.7,0.0,0.0
+639411,Ticket Sellers,35.4,23.8,20.9,5.1,9.7,2.2,1.3,1.6
+639412,Transport Conductors,9.5,82.7,4.5,2.4,0.9,0.0,0.0,0.0
+711111,Clay Products Machine Operators,27.9,27.4,8.7,6.6,26.0,1.1,0.0,0.0
+711112,Concrete Products Machine Operators,29.1,27.7,22.7,5.5,11.4,2.7,0.5,0.5
+711113,Glass Production Machine Operators,22.1,36.5,18.5,13.4,6.0,1.8,0.6,0.6
+711114,Stone Processing Machine Operators,27.8,35.9,18.0,7.7,11.6,0.0,0.0,0.0
+711199,"Other Clay, Concrete, Glass and Stone Processing Machine Operators",23.7,35.7,15.5,3.4,21.7,0.0,0.0,0.0
+711311,Paper Products Machine Operators,26.2,41.4,14.9,10.7,5.2,1.7,0.0,0.0
+711313,Sawmilling Operators,30.6,16.7,25.6,10.8,7.9,8.0,0.0,0.4
+711314,Other Wood Processing Machine Operators,23.9,29.3,20.1,9.4,10.9,6.0,0.2,0.4
+711511,Plastic Cablemaking Machine Operators,39.3,57.1,7.1,5.4,5.4,0.0,0.0,0.0
+711512,Plastic Compounding and Reclamation Machine Operators,27.1,33.9,10.2,5.1,8.5,0.0,0.0,0.0
+711513,Plastics Fabricators and Welders,16.2,20.0,25.2,5.9,27.3,4.1,0.8,0.3
+711514,Plastics Production Machine Operators (General),25.1,43.5,17.3,7.9,5.4,0.5,0.0,0.0
+711515,Reinforced Plastic and Composite Production Workers,24.9,22.3,28.9,7.1,9.6,6.9,0.0,0.0
+711516,Rubber Production Machine Operators,23.6,21.0,17.6,5.8,30.8,1.3,0.3,0.0
+711599,Other Plastics and Rubber Production Machine Operators,15.5,45.3,20.9,6.1,5.4,2.0,0.0,0.0
+711711,Footwear Production Machine Operators,29.4,40.4,6.6,19.9,5.9,0.0,0.0,0.0
+711712,Hide and Skin Processing Machine Operators,32.3,27.7,29.0,7.1,4.5,0.0,0.0,0.0
+711713,Knitting Machine Operators,5.6,75.9,0.0,9.3,0.0,5.6,0.0,0.0
+711714,Textile Dyeing and Finishing Machine Operators,19.1,58.5,6.4,3.2,4.3,3.2,0.0,0.0
+711715,Weaving Machine Operators,11.3,71.9,7.7,3.2,2.3,2.7,0.0,0.0
+711716,Yarn Carding and Spinning Machine Operators,47.9,19.5,28.4,1.4,1.9,0.0,0.0,0.0
+711799,Other Textile and Footwear Production Machine Operators,25.2,44.8,20.1,5.1,4.3,1.3,0.0,0.8
+711911,Chemical Production Machine Operators,33.1,33.8,14.4,4.0,12.4,1.6,0.4,0.1
+711912,Motion Picture Projectionists,34.3,30.3,13.1,12.1,7.1,0.0,0.0,3.0
+711913,Sand Blasters,23.3,18.8,31.7,8.4,14.5,2.5,0.4,0.0
+711914,Sterilisation Technicians,31.5,27.8,13.8,9.3,12.1,2.7,0.9,1.9
+711999,Machine Operators (not covered elsewhere),23.7,26.1,26.2,5.9,14.6,1.7,0.6,1.2
+712211,Drillers,13.9,9.0,25.0,6.9,42.3,2.1,0.7,0.1
+712212,Miners,26.1,3.0,31.8,4.8,31.6,1.6,1.2,0.0
+712213,Shot Firers,17.4,2.5,28.1,4.3,44.5,2.0,1.0,0.3
+712911,Boiler and Engine Operators,19.5,17.3,39.3,13.6,3.7,6.6,0.0,0.0
+712912,Bulk Materials Handling Plant Operators,23.9,14.8,21.6,10.5,27.8,0.8,0.8,0.0
+712913,Cement Production Plant Operators,28.3,15.4,24.4,10.0,15.1,3.5,2.3,0.0
+712914,Concrete Batching Plant Operators,27.9,19.8,30.7,6.1,10.0,3.2,1.0,1.3
+712915,Concrete Pump Operators,30.2,27.8,26.1,5.0,8.1,1.3,0.4,0.8
+712916,Paper and Pulp Mill Operators,25.6,50.4,8.5,3.5,2.7,8.8,0.0,0.0
+712917,Railway Signal Operators,31.5,25.8,22.7,3.7,13.7,2.1,0.7,0.9
+712918,Train Controllers,30.9,19.0,26.8,6.4,15.7,0.7,0.0,0.0
+712921,Waste Water and Water Plant Operators,30.7,19.3,24.8,5.9,13.0,4.4,1.3,0.6
+712922,Weighbridge Operators,33.5,22.3,24.8,5.9,8.7,2.0,0.9,1.9
+712999,Stationary Plant Operators (not covered elsewhere),18.6,12.7,21.0,8.8,31.7,5.0,1.2,0.9
+721111,Agricultural and Horticultural Mobile Plant Operators,23.6,19.7,31.0,10.0,10.6,4.4,0.5,0.2
+721112,Logging Plant Operators,25.3,23.2,9.4,11.4,13.3,17.3,0.3,0.3
+721211,Earthmoving Plant Operators (General),25.6,21.5,26.9,6.9,14.3,3.4,0.7,0.6
+721212,Backhoe Operators,25.8,24.8,30.6,10.9,3.2,2.3,0.7,1.9
+721213,Bulldozer Operators,21.5,7.8,43.2,4.2,19.2,2.7,1.9,0.0
+721214,Excavator Operators,31.9,30.4,20.7,4.7,5.9,4.7,0.5,1.2
+721215,Grader Operators,22.4,15.9,26.4,9.7,21.2,2.0,2.1,0.3
+721216,Loader Operators,20.3,19.3,24.2,8.7,24.1,2.0,0.7,0.8
+721911,Aircraft Baggage Handlers and Airline Ground Crews,30.6,18.0,24.6,6.4,13.4,2.7,2.4,1.8
+721912,Linemarkers,25.6,24.3,26.6,8.2,11.7,1.3,1.0,1.0
+721913,Paving Plant Operators,25.6,17.2,28.0,9.6,14.8,2.0,0.0,1.2
+721914,Railway Track Plant Operators,31.9,19.5,25.4,4.1,19.3,0.8,0.0,0.0
+721915,Road Roller Operators,26.2,10.8,38.7,3.4,17.3,1.4,1.4,0.0
+721916,Streetsweeper Operators,30.1,34.1,12.7,8.8,11.4,1.1,1.3,0.0
+721999,Mobile Plant Operators (not covered elsewhere),36.0,27.4,22.2,6.6,5.9,0.4,0.3,0.0
+731111,Chauffeurs,34.2,24.3,16.4,7.4,8.5,1.3,0.7,7.3
+731112,Taxi Drivers,26.4,30.3,19.8,7.4,10.8,2.7,1.5,1.2
+731199,Other Automobile Drivers,23.4,29.1,22.5,6.7,14.4,1.1,0.7,2.1
+731211,Bus Drivers,35.1,20.5,19.9,6.8,11.8,2.5,1.0,2.4
+731212,Charter and Tour Bus Drivers,24.7,24.6,19.5,8.7,16.8,2.9,1.9,0.5
+731213,Passenger Coach Drivers,31.9,23.0,26.5,4.5,6.4,5.3,1.5,0.6
+731311,Train Drivers,35.6,18.2,27.2,4.9,13.1,0.6,0.3,0.1
+731312,Tram Drivers,9.0,80.9,3.0,5.3,0.3,0.0,0.0,1.1
+733111,Truck Drivers (General),29.2,24.6,22.6,7.0,12.7,2.5,0.7,0.7
+733112,Aircraft Refuellers,27.6,14.6,25.9,6.8,14.4,2.0,8.1,0.0
+733113,Furniture Removalist Drivers,27.8,27.1,22.1,6.7,10.9,2.1,0.9,2.4
+733114,Tanker Drivers,26.4,22.3,29.5,6.5,11.7,2.2,0.9,0.4
+733115,Tow Truck Drivers,30.9,24.2,24.2,7.3,10.0,1.4,0.9,1.1
+811411,Commercial Housekeepers,24.6,17.4,28.6,8.3,12.8,4.2,2.4,1.6
+811412,Domestic Housekeepers,25.4,19.4,25.7,7.9,13.9,3.6,2.3,1.4
+811511,Laundry Workers (General),29.2,23.3,23.2,7.2,10.8,3.6,1.2,1.3
+811512,Drycleaners,35.3,30.2,12.6,7.0,10.2,2.5,0.4,1.4
+811513,Ironers and Pressers,24.4,24.4,26.1,7.7,13.0,2.0,0.0,1.2
+811611,Carpet Cleaners,28.1,20.0,26.9,7.6,12.5,2.8,0.7,1.8
+811612,Window Cleaners,24.4,32.3,15.3,9.2,13.8,2.9,0.3,1.4
+811699,Cleaners (not covered elsewhere),28.0,21.2,28.1,6.0,13.9,1.3,1.0,0.8
+821111,Builder's Labourers,31.0,27.1,21.0,6.6,9.4,2.1,0.8,1.9
+821112,"Drainage, Sewerage and Stormwater Labourers",32.7,21.7,24.4,6.6,10.7,1.8,0.6,1.4
+821113,Earthmoving Labourers,23.8,32.0,18.9,10.2,10.7,2.7,0.6,1.0
+821114,Plumber's Assistants,27.1,25.5,25.2,8.2,8.1,2.4,1.6,1.9
+821411,Building Insulation Installers,30.4,33.2,22.1,4.3,6.7,1.0,0.2,1.6
+821412,Home Improvement Installers,27.3,27.6,22.2,8.3,11.2,1.7,0.5,1.3
+821711,Construction Riggers,20.6,23.7,19.7,4.7,28.8,1.0,0.8,0.8
+821712,Scaffolders,27.6,19.9,23.1,5.2,20.8,1.1,0.8,1.3
+821713,Steel Fixers,28.3,27.6,23.4,7.7,9.9,0.7,0.6,2.2
+821714,Structural Steel Erectors,26.6,28.7,17.5,13.8,10.7,0.0,1.0,1.8
+821911,Crane Chasers,36.1,26.3,25.8,0.8,7.3,0.0,0.5,3.4
+821912,Driller's Assistants,8.5,6.2,23.8,7.1,51.8,1.4,1.0,0.0
+821913,Laggers,16.6,26.6,21.1,2.4,26.6,0.0,3.2,2.4
+821914,Mining Support Workers,20.9,8.1,25.4,8.4,34.3,1.5,1.1,0.0
+821915,Surveyor's Assistants,28.3,16.6,17.6,4.5,29.9,2.2,0.4,1.0
+831111,Baking Factory Workers,30.2,29.2,26.1,9.8,3.2,0.9,0.2,0.6
+831112,Brewery Workers,24.5,26.3,25.0,7.4,10.6,5.0,0.2,0.7
+831113,Confectionery Makers,15.3,52.8,4.3,9.9,2.8,14.3,0.2,0.4
+831114,Dairy Products Makers,20.3,53.3,7.2,6.5,4.3,8.0,0.3,0.2
+831115,Fruit and Vegetable Factory Workers,23.1,26.7,21.1,11.4,7.9,9.3,0.1,0.2
+831116,Grain Mill Workers,32.5,21.7,23.6,11.0,8.2,2.5,0.0,0.0
+831117,Sugar Mill Workers,11.7,3.1,85.5,0.0,0.0,0.0,0.0,0.0
+831118,Winery Cellar Hands,15.9,19.6,0.9,56.6,5.4,1.5,0.0,0.4
+831199,Other Food and Drink Factory Workers,31.9,36.5,17.5,6.7,5.1,2.0,0.1,0.2
+831211,Meat Boners and Slicers,23.8,21.0,36.8,7.8,8.8,1.7,0.1,0.0
+831212,Slaughterers,26.1,25.5,26.1,7.5,11.4,3.6,0.0,0.0
+831311,Meat Process Workers,24.4,29.7,29.6,6.7,7.2,2.0,0.2,0.1
+831312,Poultry Process Workers,31.4,23.3,19.2,17.6,6.2,2.1,0.0,0.2
+831313,Seafood Process Workers,19.3,13.4,18.0,10.1,11.3,27.6,0.4,0.0
+832111,Chocolate Packers,23.0,54.2,3.7,11.2,4.9,1.6,0.0,0.9
+832112,Container Fillers,22.9,29.3,11.2,26.4,6.8,2.9,0.1,0.0
+832113,Fruit and Vegetable Packers,16.7,24.0,32.7,11.7,11.3,2.8,0.6,0.1
+832114,Meat Packers,26.7,25.5,25.0,9.5,11.7,1.3,0.2,0.2
+832115,Seafood Packers,28.2,16.1,15.8,7.7,15.1,17.0,1.4,0.0
+832199,Other Packers,32.3,34.1,15.5,8.2,7.3,1.6,0.2,0.7
+839211,Plastics Factory Workers,22.3,39.0,21.4,8.5,7.1,1.0,0.0,0.0
+839212,Rubber Factory Workers,26.1,41.0,23.0,3.1,7.7,0.0,0.0,0.0
+839311,Product Examiners,27.9,34.1,17.2,8.2,10.0,1.6,0.4,0.7
+839312,Product Graders,18.8,19.7,23.4,21.5,9.4,6.7,0.0,0.2
+839313,Product Testers,30.2,28.8,25.7,4.8,7.5,1.7,0.2,1.3
+839411,Paper and Pulp Mill Workers,19.8,49.3,11.1,13.8,1.6,3.5,0.0,0.0
+839412,Sawmill and Timber Yard Workers,27.7,23.9,22.1,11.0,6.8,8.0,0.2,0.3
+839413,Wood and Wood Products Factory Workers,26.4,30.4,22.3,8.7,8.6,3.3,0.0,0.5
+839911,Cement and Concrete Plant Workers,22.4,26.1,26.5,10.0,11.9,3.6,0.5,0.0
+839912,Chemical Plant Workers,30.6,40.3,16.2,4.7,6.9,1.4,0.0,0.3
+839913,Clay Processing Factory Workers,22.0,29.1,20.9,6.6,17.6,1.6,0.0,0.0
+839914,Fabric and Textile Factory Workers,29.2,40.6,15.3,6.0,8.1,1.1,0.0,0.4
+839915,Footwear Factory Workers,31.2,21.0,2.2,36.2,4.3,5.1,0.0,0.0
+839916,Glass Processing Workers,22.5,29.0,23.4,10.9,8.7,2.8,0.6,1.3
+839917,Hide and Skin Processing Workers,40.4,19.3,25.7,2.9,8.8,0.0,0.0,0.0
+839918,Recycling Workers,25.2,18.8,23.9,11.3,15.3,2.5,1.0,2.1
+839999,Factory Process Workers (not covered elsewhere),23.9,28.3,20.5,8.8,14.2,2.8,0.8,0.9
+841211,Fruit and Nut Farm Workers,15.2,18.2,44.9,7.3,6.4,7.4,0.7,0.1
+841212,Fruit and Nut Pickers,19.2,16.7,40.3,7.9,7.1,7.0,1.4,0.1
+841213,"Grain, Oilseed and Pasture Farm Workers",25.9,17.9,14.2,16.1,24.6,1.5,0.0,0.0
+841214,Vegetable Farm Workers,12.7,24.5,38.4,11.0,7.6,5.5,0.1,0.0
+841215,Vegetable Pickers,14.5,28.7,31.7,14.5,8.0,1.8,0.7,0.0
+841216,Vineyard Workers,11.3,25.0,1.8,39.1,12.9,9.7,0.0,0.1
+841217,Mushroom Pickers,24.2,28.0,14.1,23.8,9.2,0.0,0.0,0.7
+841299,Other Crop Farm Workers,17.7,18.7,43.9,7.9,8.3,2.9,0.3,0.3
+841311,Forestry Workers,21.0,33.2,13.9,12.3,9.4,8.6,0.6,0.8
+841312,Logging Assistants,26.8,23.2,18.0,7.2,7.2,14.4,0.0,0.0
+841313,Tree Fallers,24.4,20.6,23.4,8.3,5.8,18.4,0.0,0.0
+841411,Garden Labourers,31.1,20.9,25.8,6.5,11.9,1.9,0.9,1.0
+841412,Nursery Hands (Horticulture),22.3,29.9,28.4,5.2,10.2,2.9,0.7,0.4
+841511,Beef Cattle Farm Workers,23.1,11.5,45.9,3.5,7.2,2.7,6.1,0.0
+841512,Dairy Cattle Farm Workers,17.4,53.0,6.2,7.1,4.3,12.0,0.0,0.0
+841513,Mixed Livestock Farm Workers,42.8,21.6,9.3,13.3,6.5,5.6,0.3,0.2
+841514,Poultry Farm Workers,34.2,25.6,16.3,13.1,8.8,1.7,0.0,0.5
+841515,Sheep Farm Workers,32.1,25.9,3.0,18.6,15.9,4.6,0.0,0.5
+841516,Stablehands,36.8,31.4,16.0,4.3,8.6,1.5,0.3,1.0
+841517,Wool Handlers,34.5,21.5,3.9,12.9,20.0,6.6,0.0,0.0
+841599,Other Livestock Farm Workers,20.4,25.1,21.9,18.5,11.3,1.2,1.1,0.0
+841911,Hunter-Trappers,34.5,16.7,31.4,6.2,4.3,4.7,0.0,0.0
+841913,Pest Controllers,28.7,15.4,32.3,8.8,11.3,1.3,1.2,1.0
+841999,"Farm, Forestry and Garden Workers (not covered elsewhere)",39.6,16.9,21.4,7.1,10.1,2.1,1.9,0.9
+851211,Pastrycook's Assistants,23.1,24.6,22.9,13.4,11.6,3.2,0.6,1.1
+851299,Other Food Trades Assistants,24.9,30.0,18.0,7.5,13.9,3.4,0.9,1.4
+891111,Freight Handlers (Rail or Road),33.9,26.0,20.3,6.0,11.5,1.1,0.5,0.6
+891112,Truck Driver's Offsiders,30.1,22.2,24.6,7.5,13.0,1.0,0.3,1.8
+891113,Waterside Workers,29.1,21.0,16.4,8.3,18.2,5.2,1.5,0.0
+899211,Deck Hands,24.6,9.0,29.6,4.5,22.2,7.7,2.1,0.4
+899212,Fishing Hands,20.4,7.4,23.1,18.3,19.2,9.0,2.5,0.0
+899411,Motor Vehicle Parts and Accessories Fitters (General),25.1,21.9,28.9,7.3,12.6,2.0,1.4,1.0
+899412,Autoglaziers,26.2,22.8,26.2,6.4,14.0,1.8,1.5,1.3
+899413,Exhaust and Muffler Repairers,32.2,24.0,23.0,3.3,10.4,2.7,2.2,0.0
+899414,Radiator Repairers,20.4,18.8,25.4,7.5,22.5,2.5,2.1,0.0
+899415,Tyre Fitters,25.6,19.3,25.9,8.7,16.1,2.6,0.9,1.0
+899511,Printer's Assistants,32.4,36.2,14.3,6.2,7.2,2.0,0.6,0.7
+899512,Printing Table Workers,30.1,32.8,24.0,5.2,5.1,3.1,0.0,1.0
+899911,Bicycle Mechanics,26.5,28.6,20.6,7.3,10.3,3.2,0.9,3.1
+899912,Car Park Attendants,34.0,25.2,22.0,5.2,10.3,1.8,0.0,1.4
+899913,Crossing Supervisors,16.9,49.3,22.6,0.0,9.5,1.1,0.0,0.6
+899914,Electrical and Telecommunications Trades Assistants,28.9,15.7,28.1,8.5,15.3,1.2,1.5,1.3
+899915,Leaflet and Newspaper Deliverers,24.2,26.4,18.9,11.1,15.8,2.3,0.3,1.2
+899916,Mechanic's Assistants,19.7,18.0,25.8,9.7,21.4,2.9,1.4,1.1
+899917,Railways Assistants,49.8,17.0,32.6,0.1,0.3,0.0,0.0,0.0
+899918,Sign Erectors,31.5,28.3,18.3,6.9,12.5,1.3,0.7,1.2
+899921,Ticket Collectors and Ushers,24.3,26.7,21.9,8.0,15.1,2.0,0.8,1.6
+899922,Trolley Collectors,25.7,20.2,31.3,7.2,12.7,1.1,0.8,1.0
+899923,Road Traffic Controllers,30.1,27.6,24.0,5.0,10.7,1.5,0.4,0.6
+899999,Labourers (not covered elsewhere),22.8,17.3,25.1,6.6,23.5,2.5,1.0,1.0
