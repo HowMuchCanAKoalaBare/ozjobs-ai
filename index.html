@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>OzJobsAI – Sydney-First Koala Edition</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.plot.ly/plotly-2.35.2.min.js"></script>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+  <link href="style.css" rel="stylesheet">
+</head>
+<body class="bg-zinc-950 text-white">
+  <div class="max-w-7xl mx-auto p-6">
+    <h1 class="text-5xl font-bold mb-2">OzJobsAI</h1>
+    <p class="text-xl text-emerald-400">AI Exposure for Australian Jobs – JSA official data (Sydney Lens Active)</p>
+    <div class="flex gap-4 my-8 border-b border-zinc-700">
+      <button onclick="showTab(0)" class="tab-btn active">Treemap</button>
+      <button onclick="showTab(1)" class="tab-btn">State AI Risk Map</button>
+      <button onclick="showTab(2)" class="tab-btn">Career Matcher</button>
+    </div>
+    <div id="tab0" class="tab-content"><div id="treemap" class="h-[700px]"></div></div>
+    <div id="tab1" class="tab-content hidden"><div id="map" class="h-[600px]"></div></div>
+    <div id="tab2" class="tab-content hidden">
+      <input id="skills" placeholder="e.g. hands-on trades (NSW focus)" class="w-full p-4 bg-zinc-900 rounded-2xl text-lg">
+      <button onclick="matchCareers()" class="mt-6 bg-emerald-500 hover:bg-emerald-600 px-10 py-4 rounded-2xl text-lg">Match me!</button>
+      <div id="results" class="mt-8"></div>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
