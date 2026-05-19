@@ -1,4 +1,7 @@
-fetch('data.json').then(r => r.json()).then(data => {
+fetch('data.json').then(r => {
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}).then(data => {
   let occs = data.occupations;
 
   function render(filtered) {
@@ -22,16 +25,23 @@ fetch('data.json').then(r => r.json()).then(data => {
       margin: {t:0, l:0, r:0, b:0},
       paper_bgcolor: "#111",
       plot_bgcolor: "#111"
+    }).catch(err => {
+      console.error('Plotly error:', err);
+      document.getElementById('treemap').innerHTML = '<p style="color:red; padding:20px;">Error rendering visualization</p>';
     });
   }
 
   render(occs);
 
   // Sidebar numbers
-  document.getElementById('total-jobs').textContent = `Total Jobs: ${occs.reduce((a,o) => a + (o.Employed||0), 0).toLocaleString()}`;
-  document.getElementById('avg-risk').textContent = `Average AI Risk: ${(occs.reduce((a,o) => a + o.ai_score, 0)/occs.length).toFixed(1)}/10`;
-  document.getElementById('green-jobs').textContent = `Safe Koala Jobs: ${occs.filter(o => o.ai_score <= 3.5).length}`;
-  document.getElementById('red-jobs').textContent = `Shark-Bait Jobs: ${occs.filter(o => o.ai_score >= 6).length}`;
+  try {
+    document.getElementById('total-jobs').textContent = `Total Jobs: ${occs.reduce((a,o) => a + (o.Employed||0), 0).toLocaleString()}`;
+    document.getElementById('avg-risk').textContent = `Average AI Risk: ${(occs.reduce((a,o) => a + o.ai_score, 0)/occs.length).toFixed(1)}/10`;
+    document.getElementById('green-jobs').textContent = `Safe Koala Jobs: ${occs.filter(o => o.ai_score <= 3.5).length}`;
+    document.getElementById('red-jobs').textContent = `Shark-Bait Jobs: ${occs.filter(o => o.ai_score >= 6).length}`;
+  } catch (err) {
+    console.error('Error updating sidebar:', err);
+  }
 
   // State dropdown — now 100% working
   document.getElementById('stateFilter').onchange = e => {
@@ -45,4 +55,7 @@ fetch('data.json').then(r => r.json()).then(data => {
     const f = occs.filter(o => o.Occupation.toLowerCase().includes(term));
     render(f);
   };
+}).catch(err => {
+  console.error('Error loading data:', err);
+  document.getElementById('treemap').innerHTML = '<p style="color:red; padding:20px;">Error loading data. Please ensure data.json exists.</p>';
 });
